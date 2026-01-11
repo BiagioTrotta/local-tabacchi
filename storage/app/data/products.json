@@ -1,0 +1,2510 @@
+[
+    {
+        "Categoria": "Sigarette",
+        "Codice": 7,
+        "Denominazione_commerciale": "821 ARGENTO",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 66,
+        "Denominazione_commerciale": "821 BLU",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3104,
+        "Denominazione_commerciale": "821 CAMOU",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20865,
+        "Denominazione_commerciale": "821 GREEN",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2771,
+        "Denominazione_commerciale": "821 ROSSA",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3563,
+        "Denominazione_commerciale": "ALLUVE' ORIGINAL",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3561,
+        "Denominazione_commerciale": "ALLUVE' WHITE",
+        "Prezzo_kg_euro": 225.00,
+        "Prezzo_confezione_euro": 4.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 1942,
+        "Denominazione_commerciale": "AMERICAN SPIRIT ORIGINAL BLUE",
+        "Prezzo_kg_euro": 310.00,
+        "Prezzo_confezione_euro": 6.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2231,
+        "Denominazione_commerciale": "AMERICAN SPIRIT ORIGINAL ORANGE",
+        "Prezzo_kg_euro": 325.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 1943,
+        "Denominazione_commerciale": "AMERICAN SPIRIT ORIGINAL YELLOW",
+        "Prezzo_kg_euro": 325.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3912,
+        "Denominazione_commerciale": "APACHE",
+        "Prezzo_kg_euro": 235.00,
+        "Prezzo_confezione_euro": 4.70,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3969,
+        "Denominazione_commerciale": "APACHE BLUE",
+        "Prezzo_kg_euro": 235.00,
+        "Prezzo_confezione_euro": 4.70,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2179,
+        "Denominazione_commerciale": "AUSTIN BLUE",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 1586,
+        "Denominazione_commerciale": "AUSTIN RED",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20184,
+        "Denominazione_commerciale": "BASE BLU",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3910,
+        "Denominazione_commerciale": "BASE NERA",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3885,
+        "Denominazione_commerciale": "BASE ROSSA",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 550,
+        "Denominazione_commerciale": "BENSON & HEDGES GOLD",
+        "Prezzo_kg_euro": 325.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2982,
+        "Denominazione_commerciale": "BENSON&HEDGES BLUE",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3118,
+        "Denominazione_commerciale": "BENSON&HEDGES BLUE",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3014,
+        "Denominazione_commerciale": "BENSON&HEDGES BLUE 100S",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3438,
+        "Denominazione_commerciale": "BENSON&HEDGES BLUE SUPER S",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3117,
+        "Denominazione_commerciale": "BENSON&HEDGES RED",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2981,
+        "Denominazione_commerciale": "BENSON&HEDGES RED",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3013,
+        "Denominazione_commerciale": "BENSON&HEDGES RED 100S",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3016,
+        "Denominazione_commerciale": "BENSON&HEDGES WHITE",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3416,
+        "Denominazione_commerciale": "BENSON&HEDGES WHITE 100S",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3015,
+        "Denominazione_commerciale": "BENSON&HEDGES YELLOW",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3415,
+        "Denominazione_commerciale": "BENSON&HEDGES YELLOW 100S",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3439,
+        "Denominazione_commerciale": "BENSON&HEDGES YELLOW SUPER S",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2020,
+        "Denominazione_commerciale": "BLACK DEVIL BLACK",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3185,
+        "Denominazione_commerciale": "BLACK DEVIL PINK",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3350,
+        "Denominazione_commerciale": "BLACK DEVIL YELLOW",
+        "Prezzo_kg_euro": 220.00,
+        "Prezzo_confezione_euro": 4.40,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20120,
+        "Denominazione_commerciale": "BURTON BLUE",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3798,
+        "Denominazione_commerciale": "BURTON ORIGINAL",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20225,
+        "Denominazione_commerciale": "CAMEL ACTIVATE",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 632,
+        "Denominazione_commerciale": "CAMEL BLUE",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 478,
+        "Denominazione_commerciale": "CAMEL BLUE",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 546,
+        "Denominazione_commerciale": "CAMEL BLUE 100S",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20462,
+        "Denominazione_commerciale": "CAMEL COMPACT",
+        "Prezzo_kg_euro": 285.00,
+        "Prezzo_confezione_euro": 5.70,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2240,
+        "Denominazione_commerciale": "CAMEL ESSENTIAL BLUE",
+        "Prezzo_kg_euro": 285.00,
+        "Prezzo_confezione_euro": 5.70,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 464,
+        "Denominazione_commerciale": "CAMEL ORANGE",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 21003,
+        "Denominazione_commerciale": "CAMEL SENSO GOLD",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 552,
+        "Denominazione_commerciale": "CAMEL SILVER",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2108,
+        "Denominazione_commerciale": "CAMEL WHITE",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 270,
+        "Denominazione_commerciale": "CAMEL YELLOW",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 264,
+        "Denominazione_commerciale": "CAMEL YELLOW",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 405,
+        "Denominazione_commerciale": "CAMEL YELLOW 100S",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2420,
+        "Denominazione_commerciale": "CHE",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 21265,
+        "Denominazione_commerciale": "CHE BLACK",
+        "Prezzo_kg_euro": 250.00,
+        "Prezzo_confezione_euro": 5.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2513,
+        "Denominazione_commerciale": "CHE BLANCO",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20111,
+        "Denominazione_commerciale": "CHE BLUE",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20345,
+        "Denominazione_commerciale": "CHE+ BLAST",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3114,
+        "Denominazione_commerciale": "CHESTERFIELD BLUE 100",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2082,
+        "Denominazione_commerciale": "CHESTERFIELD BLUE KS",
+        "Prezzo_kg_euro": 270.00,
+        "Prezzo_confezione_euro": 5.40,
+        "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 201,
+        "Denominazione_commerciale": "CHESTERFIELD BLUE KS",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 21419,
+        "Denominazione_commerciale": "CHESTERFIELD LABEL BLUE KS",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 21420,
+        "Denominazione_commerciale": "CHESTERFIELD LABEL ORIGINAL KS",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3113,
+        "Denominazione_commerciale": "CHESTERFIELD ORIGINAL 100",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2081,
+        "Denominazione_commerciale": "CHESTERFIELD ORIGINAL KS",
+        "Prezzo_kg_euro": 270.00,
+        "Prezzo_confezione_euro": 5.40,
+        "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 96,
+        "Denominazione_commerciale": "CHESTERFIELD ORIGINAL KS",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2257,
+        "Denominazione_commerciale": "CHESTERFIELD SILVER KS",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20077,
+        "Denominazione_commerciale": "CHESTERFIELD TUNED BLUE",
+        "Prezzo_kg_euro": 270.00,
+        "Prezzo_confezione_euro": 5.40,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2680,
+        "Denominazione_commerciale": "CHIARAVALLE BURLEY & VIRGINIA",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20653,
+        "Denominazione_commerciale": "CHIARAVALLE FIOR DI TABACCO",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 21119,
+        "Denominazione_commerciale": "CHIARAVALLE GRAN RISERVA",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2679,
+        "Denominazione_commerciale": "CHIARAVALLE VIRGINIA",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2922,
+        "Denominazione_commerciale": "CHIARAVALLE VIRGINIA BRIGHT",
+        "Prezzo_kg_euro": 260.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3437,
+        "Denominazione_commerciale": "CORSET CHIC LILAC",
+        "Prezzo_kg_euro": 220.00,
+        "Prezzo_confezione_euro": 4.40,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3423,
+        "Denominazione_commerciale": "CORSET CHIC PINK",
+        "Prezzo_kg_euro": 220.00,
+        "Prezzo_confezione_euro": 4.40,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3589,
+        "Denominazione_commerciale": "CORSET LILAC À PORTER",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2660,
+        "Denominazione_commerciale": "CORSET LILAS",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2661,
+        "Denominazione_commerciale": "CORSET MARINE",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3588,
+        "Denominazione_commerciale": "CORSET MAUVE À PORTER",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2659,
+        "Denominazione_commerciale": "CORSET PINK",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 20112,
+        "Denominazione_commerciale": "CORSET WHITE",
+        "Prezzo_kg_euro": 275.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3838,
+        "Denominazione_commerciale": "COUTURE GOLD",
+        "Prezzo_kg_euro": 235.00,
+        "Prezzo_confezione_euro": 4.70,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3837,
+        "Denominazione_commerciale": "COUTURE SILVER",
+        "Prezzo_kg_euro": 235.00,
+        "Prezzo_confezione_euro": 4.70,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 3157,
+        "Denominazione_commerciale": "DAVIDOFF BLUE",
+        "Prezzo_kg_euro": 290.00,
+        "Prezzo_confezione_euro": 5.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2111,
+        "Denominazione_commerciale": "DAVIDOFF BLUSH SSL-LINE",
+        "Prezzo_kg_euro": 290.00,
+        "Prezzo_confezione_euro": 5.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 728,
+        "Denominazione_commerciale": "DAVIDOFF CLASSIC",
+        "Prezzo_kg_euro": 325.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 758,
+        "Denominazione_commerciale": "DAVIDOFF GOLD",
+        "Prezzo_kg_euro": 325.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 583,
+        "Denominazione_commerciale": "DAVIDOFF GOLD SL LINE",
+        "Prezzo_kg_euro": 325.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 2112,
+        "Denominazione_commerciale": "DAVIDOFF MAGENTA SSL-LINE",
+        "Prezzo_kg_euro": 290.00,
+        "Prezzo_confezione_euro": 5.80,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 1983,
+        "Denominazione_commerciale": "DIANA BLU 100's",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 630,
+        "Denominazione_commerciale": "DIANA BLU KS",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigarette",
+        "Codice": 406,
+        "Denominazione_commerciale": "DIANA BLU KS",
+        "Prezzo_kg_euro": 265.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+    },
+     {
+    "Categoria": "Sigarette",
+    "Codice": 1982,
+    "Denominazione_commerciale": "DIANA ROSSA 100's",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 233,
+    "Denominazione_commerciale": "DIANA ROSSA KS",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 234,
+    "Denominazione_commerciale": "DIANA ROSSA KS",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 913,
+    "Denominazione_commerciale": "DIANA SSL BLU",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20876,
+    "Denominazione_commerciale": "DUCAL RED",
+    "Prezzo_kg_euro": 225.00,
+    "Prezzo_confezione_euro": 4.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 818,
+    "Denominazione_commerciale": "DUNHILL BLUE",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 231,
+    "Denominazione_commerciale": "DUNHILL CLUB",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 649,
+    "Denominazione_commerciale": "DUNHILL CLUB BIANCA",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 291,
+    "Denominazione_commerciale": "DUNHILL GOLD",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 549,
+    "Denominazione_commerciale": "DUNHILL INTERNATIONAL",
+    "Prezzo_kg_euro": 350.00,
+    "Prezzo_confezione_euro": 7.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 857,
+    "Denominazione_commerciale": "DUNHILL MS BIANCHE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 176,
+    "Denominazione_commerciale": "DUNHILL MS BIONDE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 177,
+    "Denominazione_commerciale": "DUNHILL MS BIONDE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 60,
+    "Denominazione_commerciale": "DUNHILL MS BIONDE 100'S",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 851,
+    "Denominazione_commerciale": "DUNHILL MS CHIARE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 852,
+    "Denominazione_commerciale": "DUNHILL MS ROSSE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 993,
+    "Denominazione_commerciale": "DUNHILL MS ROSSE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 798,
+    "Denominazione_commerciale": "DUNHILL RED",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1481,
+    "Denominazione_commerciale": "ELIXYR BLUE",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1811,
+    "Denominazione_commerciale": "ELIXYR BLUE 100'S",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21421,
+    "Denominazione_commerciale": "ELIXYR DUO",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1480,
+    "Denominazione_commerciale": "ELIXYR RED",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1810,
+    "Denominazione_commerciale": "ELIXYR RED 100'S",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1719,
+    "Denominazione_commerciale": "ELIXYR+",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3188,
+    "Denominazione_commerciale": "ELIXYR+ 100s",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3945,
+    "Denominazione_commerciale": "ELIXYR+ X-TYPE",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21110,
+    "Denominazione_commerciale": "ELIXYR+ X-TYPE 100S",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2404,
+    "Denominazione_commerciale": "EM@IL BLACK",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2412,
+    "Denominazione_commerciale": "EM@IL WHITE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 627,
+    "Denominazione_commerciale": "ESPORTAZIONE",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+    {
+    "Categoria": "Sigarette",
+    "Codice": 2592,
+    "Denominazione_commerciale": "FUTURA BIANCA",
+    "Prezzo_kg_euro": 215.00,
+    "Prezzo_confezione_euro": 4.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2463,
+    "Denominazione_commerciale": "FUTURA BLACK S-SIZE",
+    "Prezzo_kg_euro": 205.00,
+    "Prezzo_confezione_euro": 4.10,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2218,
+    "Denominazione_commerciale": "FUTURA BLU",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 604,
+    "Denominazione_commerciale": "FUTURA CLASSICA",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2462,
+    "Denominazione_commerciale": "FUTURA GOLD S-SIZE",
+    "Prezzo_kg_euro": 205.00,
+    "Prezzo_confezione_euro": 4.10,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2383,
+    "Denominazione_commerciale": "FUTURA ROSSA",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2464,
+    "Denominazione_commerciale": "FUTURA WHITE S-SIZE",
+    "Prezzo_kg_euro": 205.00,
+    "Prezzo_confezione_euro": 4.10,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 558,
+    "Denominazione_commerciale": "GAULOISES BLONDES BLU",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21034,
+    "Denominazione_commerciale": "GAULOISES BLONDES BLU 100s",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 477,
+    "Denominazione_commerciale": "GAULOISES BLONDES GIALLA",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 640,
+    "Denominazione_commerciale": "GAULOISES BLONDES ROSSA",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21035,
+    "Denominazione_commerciale": "GAULOISES BLONDES ROSSA 100s",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 888,
+    "Denominazione_commerciale": "GITANES",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 391,
+    "Denominazione_commerciale": "GITANES FILTRE",
+    "Prezzo_kg_euro": 295.00,
+    "Prezzo_confezione_euro": 5.90,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2259,
+    "Denominazione_commerciale": "GIUBEK FILTRO",
+    "Prezzo_kg_euro": 200.00,
+    "Prezzo_confezione_euro": 4.00,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2217,
+    "Denominazione_commerciale": "GLAMOUR BLUES",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2216,
+    "Denominazione_commerciale": "GLAMOUR PINKS",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2956,
+    "Denominazione_commerciale": "JPS BLUE",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2286,
+    "Denominazione_commerciale": "JPS BLUE STREAM",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2288,
+    "Denominazione_commerciale": "JPS BLUE STREAM 100",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3626,
+    "Denominazione_commerciale": "JPS COMPACT BLUE STREAM",
+    "Prezzo_kg_euro": 230.00,
+    "Prezzo_confezione_euro": 4.60,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21616,
+    "Denominazione_commerciale": "JPS DEEP BLUE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21615,
+    "Denominazione_commerciale": "JPS DEEP RED",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 154,
+    "Denominazione_commerciale": "JPS ORIGINAL",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2957,
+    "Denominazione_commerciale": "JPS RED",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 293,
+    "Denominazione_commerciale": "JPS RED",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2287,
+    "Denominazione_commerciale": "JPS RED 100",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 300,
+    "Denominazione_commerciale": "JPS SILVER",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2883,
+    "Denominazione_commerciale": "JPS SILVER 100",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3006,
+    "Denominazione_commerciale": "JPS SSL-LINE SILVER",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+    {
+    "Categoria": "Sigarette",
+    "Codice": 3007,
+    "Denominazione_commerciale": "JPS SSL-LINE WHITE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3941,
+    "Denominazione_commerciale": "JPS WHITE",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 891,
+    "Denominazione_commerciale": "KENT BLUE",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 499,
+    "Denominazione_commerciale": "KENT SURROUND",
+    "Prezzo_kg_euro": 340.00,
+    "Prezzo_confezione_euro": 6.80,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1303,
+    "Denominazione_commerciale": "L&M BLUE LABEL KS",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1313,
+    "Denominazione_commerciale": "L&M RED LABEL KS",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 87,
+    "Denominazione_commerciale": "LIDO BLU",
+    "Prezzo_kg_euro": 315.00,
+    "Prezzo_confezione_euro": 6.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 488,
+    "Denominazione_commerciale": "LINDA",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3060,
+    "Denominazione_commerciale": "LINDA AZZURRA",
+    "Prezzo_kg_euro": 210.00,
+    "Prezzo_confezione_euro": 4.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 841,
+    "Denominazione_commerciale": "LINDA BLU",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21286,
+    "Denominazione_commerciale": "LUCKIES CRAFTED 1871 BLUE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21285,
+    "Denominazione_commerciale": "LUCKIES CRAFTED 1871 RED",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 867,
+    "Denominazione_commerciale": "LUCKY STRIKE AMBER",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3924,
+    "Denominazione_commerciale": "LUCKY STRIKE DEMI",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3947,
+    "Denominazione_commerciale": "LUCKY STRIKE ECLIPSE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21568,
+    "Denominazione_commerciale": "LUCKY STRIKE NIGHT EDT",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 536,
+    "Denominazione_commerciale": "LUCKY STRIKE ORIGINAL",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 451,
+    "Denominazione_commerciale": "LUCKY STRIKE ORIGINAL",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20403,
+    "Denominazione_commerciale": "LUCKY STRIKE ORIGINAL 100'S",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3319,
+    "Denominazione_commerciale": "LUCKY STRIKE SILVER BAY",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3536,
+    "Denominazione_commerciale": "MADEMOISELLE LA BLANCHE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3365,
+    "Denominazione_commerciale": "MADEMOISELLE LA BLEUE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20957,
+    "Denominazione_commerciale": "MADEMOISELLE LA PLUS",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3364,
+    "Denominazione_commerciale": "MADEMOISELLE LA ROSE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20683,
+    "Denominazione_commerciale": "MARK ADAMS 1 GOLD 100",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20700,
+    "Denominazione_commerciale": "MARK ADAMS 1 GOLD KS",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20684,
+    "Denominazione_commerciale": "MARK ADAMS 1 RED 100",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20682,
+    "Denominazione_commerciale": "MARK ADAMS 1 RED KS",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 819,
+    "Denominazione_commerciale": "MARLBORO 100S",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3341,
+    "Denominazione_commerciale": "MARLBORO BLUE LINE",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3906,
+    "Denominazione_commerciale": "MARLBORO CRAFTED GOLD",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21037,
+    "Denominazione_commerciale": "MARLBORO CRAFTED GOLD 100S",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3907,
+    "Denominazione_commerciale": "MARLBORO CRAFTED RED",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21036,
+    "Denominazione_commerciale": "MARLBORO CRAFTED RED 100S",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 651,
+    "Denominazione_commerciale": "MARLBORO GOLD 100S",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 618,
+    "Denominazione_commerciale": "MARLBORO GOLD KS",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 9,
+    "Denominazione_commerciale": "MARLBORO GOLD KS",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3340,
+    "Denominazione_commerciale": "MARLBORO GOLD LINE",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2658,
+    "Denominazione_commerciale": "MARLBORO GOLD POCKET PACK",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21287,
+    "Denominazione_commerciale": "MARLBORO GOLD TITANIUM EDITION",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2214,
+    "Denominazione_commerciale": "MARLBORO GOLD TOUCH KS",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 396,
+    "Denominazione_commerciale": "MARLBORO KS",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 395,
+    "Denominazione_commerciale": "MARLBORO KS",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 259,
+    "Denominazione_commerciale": "MARLBORO MIX",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3504,
+    "Denominazione_commerciale": "MARLBORO POCKET PACK",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21288,
+    "Denominazione_commerciale": "MARLBORO RED TITANIUM EDITION",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2373,
+    "Denominazione_commerciale": "MARLBORO RED TOUCH",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2616,
+    "Denominazione_commerciale": "MARLBORO SILVER BLUE KS",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3422,
+    "Denominazione_commerciale": "MARLBORO TOUCH",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2688,
+    "Denominazione_commerciale": "MARLBORO WHITE",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2423,
+    "Denominazione_commerciale": "MERIT BAY KS",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 376,
+    "Denominazione_commerciale": "MERIT BIANCA KS",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 256,
+    "Denominazione_commerciale": "MERIT BLU 100'S",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 874,
+    "Denominazione_commerciale": "MERIT BLU KS",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2656,
+    "Denominazione_commerciale": "MERIT GIALLA",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 949,
+    "Denominazione_commerciale": "MERIT GIALLA 100'S",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 997,
+    "Denominazione_commerciale": "MERIT GIALLA KS",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 81,
+    "Denominazione_commerciale": "MERIT SSL",
+    "Prezzo_kg_euro": 310.00,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 827,
+    "Denominazione_commerciale": "MS CHIARE 100'S",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 18,
+    "Denominazione_commerciale": "MS CLASSIC",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+   {
+    "Categoria": "Sigarette",
+    "Codice": 686,
+    "Denominazione_commerciale": "MS NAZIONALI",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 629,
+    "Denominazione_commerciale": "MS NAZIONALI",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 574,
+    "Denominazione_commerciale": "MURATTI AMBASSADOR AZURE KS",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 560,
+    "Denominazione_commerciale": "MURATTI AMBASSADOR BLUE KS",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 876,
+    "Denominazione_commerciale": "MURATTI AMBASSADOR SILVER KS",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 951,
+    "Denominazione_commerciale": "MURATTI AZURE 100S",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 952,
+    "Denominazione_commerciale": "MURATTI RED 100S",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1672,
+    "Denominazione_commerciale": "NEWS RED",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2593,
+    "Denominazione_commerciale": "NO BRAND",
+    "Prezzo_kg_euro": 210.00,
+    "Prezzo_confezione_euro": 4.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3977,
+    "Denominazione_commerciale": "NOLOGO ARANCIONE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3978,
+    "Denominazione_commerciale": "NOLOGO GIALLA",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3979,
+    "Denominazione_commerciale": "NOLOGO VERDE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3936,
+    "Denominazione_commerciale": "PALL MALL BLUE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3935,
+    "Denominazione_commerciale": "PALL MALL RED",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1201,
+    "Denominazione_commerciale": "PETER STUYVESANT BLUE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2323,
+    "Denominazione_commerciale": "PETER STUYVESANT BLUE 100'S",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 352,
+    "Denominazione_commerciale": "PETER STUYVESANT GOLD",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1788,
+    "Denominazione_commerciale": "PETER STUYVESANT GOLD 100'S",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 348,
+    "Denominazione_commerciale": "PETER STUYVESANT ORIGINAL",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 547,
+    "Denominazione_commerciale": "PETER STUYVESANT ORIGINAL 100'S",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2694,
+    "Denominazione_commerciale": "PHILIP MORRIS AZURE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2816,
+    "Denominazione_commerciale": "PHILIP MORRIS AZURE 100'S",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3220,
+    "Denominazione_commerciale": "PHILIP MORRIS BLUE",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2602,
+    "Denominazione_commerciale": "PHILIP MORRIS BLUE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2815,
+    "Denominazione_commerciale": "PHILIP MORRIS BLUE 100'S",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 553,
+    "Denominazione_commerciale": "PHILIP MORRIS FILTER KINGS",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3219,
+    "Denominazione_commerciale": "PHILIP MORRIS FILTER KINGS 100’S",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3218,
+    "Denominazione_commerciale": "PHILIP MORRIS RED",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2603,
+    "Denominazione_commerciale": "PHILIP MORRIS RED",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3337,
+    "Denominazione_commerciale": "PHILIP MORRIS SSL BEIGE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+    {
+    "Categoria": "Sigarette",
+    "Codice": 3221,
+    "Denominazione_commerciale": "PHILIP MORRIS SSL BLUE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2695,
+    "Denominazione_commerciale": "PHILIP MORRIS WHITE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2181,
+    "Denominazione_commerciale": "PUEBLO BLUE",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2099,
+    "Denominazione_commerciale": "PUEBLO CLASSIC",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2885,
+    "Denominazione_commerciale": "PUEBLO GT",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3058,
+    "Denominazione_commerciale": "PUEBLO ORANGE",
+    "Prezzo_kg_euro": 300.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 608,
+    "Denominazione_commerciale": "R1 SL-LINE",
+    "Prezzo_kg_euro": 270.00,
+    "Prezzo_confezione_euro": 5.40,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20412,
+    "Denominazione_commerciale": "ROTHMANS ESSENCE BLUE 100'S",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3606,
+    "Denominazione_commerciale": "ROTHMANS ESSENCE BLUE KING SIZE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3009,
+    "Denominazione_commerciale": "ROTHMANS ESSENCE BLUE KING SIZE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3008,
+    "Denominazione_commerciale": "ROTHMANS ESSENCE RED",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3059,
+    "Denominazione_commerciale": "ROTHMANS ESSENCE SILVER KING SIZE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3607,
+    "Denominazione_commerciale": "ROTHMANS ESSENCE SILVER KING SIZE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2879,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON BLUE 100",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2652,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON BLUE 20",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2270,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON D-SERIES",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2878,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON RED 100'S",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2860,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON RED 20",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3503,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON SENSORA D- SERIES",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2880,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON SILVER 100",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2654,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON SILVER 20",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3010,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON S-SERIES BLUE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3011,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON S-SERIES SILVER",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20390,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON S-SERIES WHITE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3948,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON SURROUND KING SIZE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3662,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON WHITE 100",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3012,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON WHITE 20'S",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21708,
+    "Denominazione_commerciale": "ROTHMANS RED ESSENCE KING SIZE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 221,
+    "Denominazione_commerciale": "ROTHMANS SPECIAL BLUE KS",
+    "Prezzo_kg_euro": 325.00,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3533,
+    "Denominazione_commerciale": "SIGARETTE BLU",
+    "Prezzo_kg_euro": 225.00,
+    "Prezzo_confezione_euro": 4.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+    {
+    "Categoria": "Sigarette",
+    "Codice": 3532,
+    "Denominazione_commerciale": "SIGARETTE ROSSE",
+    "Prezzo_kg_euro": 225.00,
+    "Prezzo_confezione_euro": 4.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3183,
+    "Denominazione_commerciale": "THE KING BLUE",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3176,
+    "Denominazione_commerciale": "THE KING BLUE 100'S",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3184,
+    "Denominazione_commerciale": "THE KING RED",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3178,
+    "Denominazione_commerciale": "THE KING RED 100'S",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3534,
+    "Denominazione_commerciale": "THE KING SILVER",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3535,
+    "Denominazione_commerciale": "THE KING SILVER 100'S",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3748,
+    "Denominazione_commerciale": "THE KING SSL BLUE",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21120,
+    "Denominazione_commerciale": "THE KING SSL STORM",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3747,
+    "Denominazione_commerciale": "THE KING SSL WHITE",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21259,
+    "Denominazione_commerciale": "THE KING STORM",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3678,
+    "Denominazione_commerciale": "THE KING STORM 100'S",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20866,
+    "Denominazione_commerciale": "TITANO",
+    "Prezzo_kg_euro": 225.00,
+    "Prezzo_confezione_euro": 4.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 600,
+    "Denominazione_commerciale": "VOGUE BLEUE",
+    "Prezzo_kg_euro": 285.00,
+    "Prezzo_confezione_euro": 5.70,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 544,
+    "Denominazione_commerciale": "VOGUE CLASSIQUE LONG BLEUE",
+    "Prezzo_kg_euro": 285.00,
+    "Prezzo_confezione_euro": 5.70,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 868,
+    "Denominazione_commerciale": "VOGUE CLASSIQUE LONG LILAS",
+    "Prezzo_kg_euro": 285.00,
+    "Prezzo_confezione_euro": 5.70,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 292,
+    "Denominazione_commerciale": "VOGUE LILAS",
+    "Prezzo_kg_euro": 285.00,
+    "Prezzo_confezione_euro": 5.70,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1635,
+    "Denominazione_commerciale": "WEST BLUE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3839,
+    "Denominazione_commerciale": "WEST BLUE 100S",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21033,
+    "Denominazione_commerciale": "WEST BLUE SSL-LINE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1634,
+    "Denominazione_commerciale": "WEST ORIGINAL",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3840,
+    "Denominazione_commerciale": "WEST ORIGINAL 100S",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20927,
+    "Denominazione_commerciale": "WEST SILVER",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1733,
+    "Denominazione_commerciale": "WINSTON BLUE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 338,
+    "Denominazione_commerciale": "WINSTON BLUE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1784,
+    "Denominazione_commerciale": "WINSTON BLUE 100S",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2065,
+    "Denominazione_commerciale": "WINSTON BLUE SUPER LINE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20041,
+    "Denominazione_commerciale": "WINSTON COMPACT",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20226,
+    "Denominazione_commerciale": "WINSTON EXPAND",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 21459,
+    "Denominazione_commerciale": "WINSTON JUST BLUE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+   {
+    "Categoria": "Sigarette",
+    "Codice": 21460,
+    "Denominazione_commerciale": "WINSTON JUST RED",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 245,
+    "Denominazione_commerciale": "WINSTON RED",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione cartoccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 91,
+    "Denominazione_commerciale": "WINSTON RED",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1783,
+    "Denominazione_commerciale": "WINSTON RED 100S",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20648,
+    "Denominazione_commerciale": "WINSTON SHORT BLUE",
+    "Prezzo_kg_euro": 265.00,
+    "Prezzo_confezione_euro": 5.30,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 134,
+    "Denominazione_commerciale": "WINSTON SILVER",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2296,
+    "Denominazione_commerciale": "WINSTON SILVER 100S",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2066,
+    "Denominazione_commerciale": "WINSTON SILVER SUPER LINE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 1248,
+    "Denominazione_commerciale": "WINSTON WHITE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 3467,
+    "Denominazione_commerciale": "WINSTON WHITE SUPER LINE",
+    "Prezzo_kg_euro": 275.00,
+    "Prezzo_confezione_euro": 5.50,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2341,
+    "Denominazione_commerciale": "YESMOKE BLACK",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2262,
+    "Denominazione_commerciale": "YESMOKE BLUE",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 20211,
+    "Denominazione_commerciale": "YESMOKE PLANET",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 5.00,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2069,
+    "Denominazione_commerciale": "YESMOKE RED",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2682,
+    "Denominazione_commerciale": "YESMOKE SILVER",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  },
+  {
+    "Categoria": "Sigarette",
+    "Codice": 2072,
+    "Denominazione_commerciale": "YESMOKE WHITE RED",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 5.20,
+    "Tipo_confezione": "Confezione astuccio da 20 pezzi"
+  }
+
+]
+
+
+
