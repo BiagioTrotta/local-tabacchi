@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-        <a class="navbar-brand" href="#dashboard">
+        <a class="navbar-brand" href="{{ route('homepage') }}">
             LocalTabacchi
         </a>
 
@@ -12,7 +12,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="#inventories.index">
+                <a class="nav-link" href="{{ route('products.inventory.form') }}">
                     Magazzino
                 </a>
             </li>

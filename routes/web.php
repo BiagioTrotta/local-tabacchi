@@ -8,4 +8,15 @@ use App\Http\Controllers\ProductController;
 Route::get('/', [PageController::class, 'index'])->name('homepage');
 
 // Rotta Prodotti
-Route::get('/products', [ProductController::class, 'index'])->name('products.index');
+Route::prefix('products')->name('products.')->group(function () {
+    Route::get('/', [ProductController::class, 'index'])->name('index');
+
+    // CRUD Movimenti
+    Route::get('/inventory', [ProductController::class, 'inventoryForm'])->name('inventory.form');
+    Route::post('/inventory/move', [ProductController::class, 'inventoryMove'])->name('inventory.move');
+});
+
+
+Route::get('/products/by-barcode/{ean}', [ProductController::class, 'findByBarcode'])
+    ->name('products.byBarcode');
+
