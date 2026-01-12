@@ -57,8 +57,18 @@ class ProductController extends Controller
         // 2️⃣ Ricerca manuale tramite codice o denominazione
         if (!$product) {
             $query = Product::query();
-            if ($request->codice) $query->where('codice', $request->codice);
-            if ($request->denominazione) $query->where('denominazione_commerciale', 'like', "%{$request->denominazione}%");
+
+            // Se c'è codice, cerca per codice
+            if ($request->codice) {
+                $query->where('codice', $request->codice);
+            }
+
+            // Se c'è denominazione, rimuove parentesi e cerca per LIKE
+            if ($request->denominazione) {
+                $denom = preg_replace('/\s*\(.*\)$/', '', $request->denominazione);
+                $query->orWhere('denominazione_commerciale', 'like', "%{$denom}%");
+            }
+
             $product = $query->first();
         }
 
@@ -75,9 +85,7 @@ class ProductController extends Controller
         }
 
         // 4️⃣ Aggiorna inventario
-        $inventory = $product->inventory()->firstOrCreate([
-            'product_id' => $product->id,
-        ]);
+        $inventory = $product->inventory()->firstOrCreate(['product_id' => $product->id]);
 
         if ($request->type === 'carico') {
             $inventory->quantity += $request->quantity;
@@ -100,6 +108,7 @@ class ProductController extends Controller
 
         return redirect()->back()->with('success', 'Movimento registrato correttamente.');
     }
+
 
     public function findByBarcode(string $ean)
     {
