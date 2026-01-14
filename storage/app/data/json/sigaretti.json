@@ -1,0 +1,2522 @@
+[
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 383,
+        "Denominazione_commerciale": "AGIO FILTER TIP",
+        "Prezzo_kg_euro": 232.00,
+        "Prezzo_confezione_euro": 2.90,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3753,
+        "Denominazione_commerciale": "AGIO FILTER TIP 10",
+        "Prezzo_kg_euro": 224.00,
+        "Prezzo_confezione_euro": 5.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 527,
+        "Denominazione_commerciale": "AGIO JUNIOR TIP",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3754,
+        "Denominazione_commerciale": "AGIO JUNIOR TIP 10",
+        "Prezzo_kg_euro": 224.00,
+        "Prezzo_confezione_euro": 5.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 775,
+        "Denominazione_commerciale": "AGIO MEHARI'S JAVA",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 75,
+        "Denominazione_commerciale": "AGIO MEHARI'S ECUADOR",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 826,
+        "Denominazione_commerciale": "AGIO MEHARI'S RED ORIENT 10",
+        "Prezzo_kg_euro": 196.00,
+        "Prezzo_confezione_euro": 4.90,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 479,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S BRASIL",
+        "Prezzo_kg_euro": 212.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 615,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S ECUADOR",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2751,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S FILTER GOLD 20",
+        "Prezzo_kg_euro": 150.00,
+        "Prezzo_confezione_euro": 7.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2752,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S FILTER GOLD 5",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 2.00,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2166,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S FILTER RED 20",
+        "Prezzo_kg_euro": 150.00,
+        "Prezzo_confezione_euro": 7.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2167,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S FILTER RED 5",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 2.00,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 631,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S JAVA",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 855,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S MEDITERRANEO 10",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2501,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S RED 20",
+        "Prezzo_kg_euro": 154.00,
+        "Prezzo_confezione_euro": 7.70,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 161,
+        "Denominazione_commerciale": "AGIO MINI MEHARI'S RED ORIENT 10",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21379,
+        "Denominazione_commerciale": "AL CAPONE DUO FILTER 18",
+        "Prezzo_kg_euro": 146.67,
+        "Prezzo_confezione_euro": 6.60,
+        "Tipo_confezione": "Confezione da 18 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21377,
+        "Denominazione_commerciale": "AL CAPONE DUO FILTER 2",
+        "Prezzo_kg_euro": 90.00,
+        "Prezzo_confezione_euro": 0.45,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21378,
+        "Denominazione_commerciale": "AL CAPONE DUO FILTER 3",
+        "Prezzo_kg_euro": 213.34,
+        "Prezzo_confezione_euro": 1.60,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1872,
+        "Denominazione_commerciale": "AL CAPONE FILTER 10",
+        "Prezzo_kg_euro": 204.00,
+        "Prezzo_confezione_euro": 5.10,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3898,
+        "Denominazione_commerciale": "AL CAPONE FLAME FILTER 18",
+        "Prezzo_kg_euro": 146.67,
+        "Prezzo_confezione_euro": 6.60,
+        "Tipo_confezione": "Confezione da 18 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3550,
+        "Denominazione_commerciale": "AL CAPONE FLAME FILTER 2",
+        "Prezzo_kg_euro": 70.00,
+        "Prezzo_confezione_euro": 0.35,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3071,
+        "Denominazione_commerciale": "AL CAPONE FLAME FILTER 3",
+        "Prezzo_kg_euro": 213.34,
+        "Prezzo_confezione_euro": 1.60,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3899,
+        "Denominazione_commerciale": "AL CAPONE GOLD FILTER 18",
+        "Prezzo_kg_euro": 146.67,
+        "Prezzo_confezione_euro": 6.60,
+        "Tipo_confezione": "Confezione da 18 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1873,
+        "Denominazione_commerciale": "AL CAPONE ORIGINAL FILTER 10",
+        "Prezzo_kg_euro": 152.00,
+        "Prezzo_confezione_euro": 3.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3900,
+        "Denominazione_commerciale": "AL CAPONE ORIGINAL FILTER 18",
+        "Prezzo_kg_euro": 146.67,
+        "Prezzo_confezione_euro": 6.60,
+        "Tipo_confezione": "Confezione da 18 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3092,
+        "Denominazione_commerciale": "AL CAPONE POCKETS GOLD FILTER 16",
+        "Prezzo_kg_euro": 155.00,
+        "Prezzo_confezione_euro": 6.20,
+        "Tipo_confezione": "Confezione da 16 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3093,
+        "Denominazione_commerciale": "AL CAPONE POCKETS ORIGINAL FILTER 16",
+        "Prezzo_kg_euro": 155.00,
+        "Prezzo_confezione_euro": 6.20,
+        "Tipo_confezione": "Confezione da 16 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3628,
+        "Denominazione_commerciale": "AL CAPONE POCKETS RED FILTER 3",
+        "Prezzo_kg_euro": 213.34,
+        "Prezzo_confezione_euro": 1.60,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3901,
+        "Denominazione_commerciale": "AL CAPONE SUNSET FILTER 18",
+        "Prezzo_kg_euro": 146.67,
+        "Prezzo_confezione_euro": 6.60,
+        "Tipo_confezione": "Confezione da 18 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20389,
+        "Denominazione_commerciale": "AL CAPONE SUNSET FILTER 2",
+        "Prezzo_kg_euro": 110.00,
+        "Prezzo_confezione_euro": 0.55,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3902,
+        "Denominazione_commerciale": "AL CAPONE SUNSET FILTER 3",
+        "Prezzo_kg_euro": 213.34,
+        "Prezzo_confezione_euro": 1.60,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1658,
+        "Denominazione_commerciale": "AMIGOS",
+        "Prezzo_kg_euro": 126.00,
+        "Prezzo_confezione_euro": 6.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3363,
+        "Denominazione_commerciale": "AMIGOS AUTHENTIC 20",
+        "Prezzo_kg_euro": 128.00,
+        "Prezzo_confezione_euro": 6.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3926,
+        "Denominazione_commerciale": "AMIGOS AUTHENTIC RED FILTER 10",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 3.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3927,
+        "Denominazione_commerciale": "AMIGOS AUTHENTIC WHITE FILTER 10",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 3.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1970,
+        "Denominazione_commerciale": "AMIGOS FILTER",
+        "Prezzo_kg_euro": 126.00,
+        "Prezzo_confezione_euro": 6.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1926,
+        "Denominazione_commerciale": "AMIGOS MEDIUM",
+        "Prezzo_kg_euro": 152.00,
+        "Prezzo_confezione_euro": 3.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2622,
+        "Denominazione_commerciale": "AMIGOS MINI RED FILTER 10",
+        "Prezzo_kg_euro": 112.00,
+        "Prezzo_confezione_euro": 2.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2547,
+        "Denominazione_commerciale": "AMIGOS POCKET",
+        "Prezzo_kg_euro": 104.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2548,
+        "Denominazione_commerciale": "AMIGOS POCKET FILTER",
+        "Prezzo_kg_euro": 104.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3698,
+        "Denominazione_commerciale": "AMIGOS POCKET FILTER WHITE 20",
+        "Prezzo_kg_euro": 88.00,
+        "Prezzo_confezione_euro": 4.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2806,
+        "Denominazione_commerciale": "AMIGOS POCKET FILTRO AMERICAN BLEND",
+        "Prezzo_kg_euro": 104.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2226,
+        "Denominazione_commerciale": "AMIGOS RED FILTER 20",
+        "Prezzo_kg_euro": 126.00,
+        "Prezzo_confezione_euro": 6.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1969,
+        "Denominazione_commerciale": "BALMORAL DOMINICAN SELECTION 5 SHORT PANATELA",
+        "Prezzo_kg_euro": 384.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2804,
+        "Denominazione_commerciale": "BRANIFF RED AMERICAN BLEND",
+        "Prezzo_kg_euro": 104.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2805,
+        "Denominazione_commerciale": "BRANIFF WHITE AMERICAN BLEND",
+        "Prezzo_kg_euro": 104.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3201,
+        "Denominazione_commerciale": "BREAK BLUE 17",
+        "Prezzo_kg_euro": 134.12,
+        "Prezzo_confezione_euro": 5.70,
+        "Tipo_confezione": "Confezione da 17 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3200,
+        "Denominazione_commerciale": "BREAK ORIGINAL 17",
+        "Prezzo_kg_euro": 134.12,
+        "Prezzo_confezione_euro": 5.70,
+        "Tipo_confezione": "Confezione da 17 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3202,
+        "Denominazione_commerciale": "BREAK SILVER 17",
+        "Prezzo_kg_euro": 134.12,
+        "Prezzo_confezione_euro": 5.70,
+        "Tipo_confezione": "Confezione da 17 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3800,
+        "Denominazione_commerciale": "BURTON ORIGINAL",
+        "Prezzo_kg_euro": 92.00,
+        "Prezzo_confezione_euro": 2.30,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3801,
+        "Denominazione_commerciale": "BURTON ORIGINAL 17",
+        "Prezzo_kg_euro": 89.40,
+        "Prezzo_confezione_euro": 3.80,
+        "Tipo_confezione": "Confezione da 17 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3420,
+        "Denominazione_commerciale": "CAFE' CREME 01 FILTER BROWN 3",
+        "Prezzo_kg_euro": 146.70,
+        "Prezzo_confezione_euro": 1.10,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3421,
+        "Denominazione_commerciale": "CAFE' CREME 02 FILTER BEIGE 3",
+        "Prezzo_kg_euro": 146.70,
+        "Prezzo_confezione_euro": 1.10,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3180,
+        "Denominazione_commerciale": "CAFE' CREME BROWN",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3334,
+        "Denominazione_commerciale": "CAFE' CREME SIGNATURE FILTER COPPER",
+        "Prezzo_kg_euro": 155.00,
+        "Prezzo_confezione_euro": 3.10,
+        "Tipo_confezione": "Confezione da 8 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3812,
+        "Denominazione_commerciale": "CAMEL ACTIVATE PURPLE TOBACCO WRAPPED",
+        "Prezzo_kg_euro": 100.00,
+        "Prezzo_confezione_euro": 2.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3811,
+        "Denominazione_commerciale": "CAMEL ACTIVATE TOBACCO WRAPPED",
+        "Prezzo_kg_euro": 100.00,
+        "Prezzo_confezione_euro": 2.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2562,
+        "Denominazione_commerciale": "CANDLELIGHT FILTER BLACK",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2103,
+        "Denominazione_commerciale": "CANDLELIGHT FILTER GOLD",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3362,
+        "Denominazione_commerciale": "CHE VELASQUES DOMINICANA 10 CIGARILLOS",
+        "Prezzo_kg_euro": 224.00,
+        "Prezzo_confezione_euro": 5.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3515,
+        "Denominazione_commerciale": "CHE VELASQUES MARRON ECUADOR 10",
+        "Prezzo_kg_euro": 188.00,
+        "Prezzo_confezione_euro": 4.70,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3608,
+        "Denominazione_commerciale": "CHE VELASQUES MARRON ECUADOR 10 MINI CIGARILLOS",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 4.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3517,
+        "Denominazione_commerciale": "CHE VELASQUES MARRON ECUADOR 3",
+        "Prezzo_kg_euro": 213.33,
+        "Prezzo_confezione_euro": 1.60,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3378,
+        "Denominazione_commerciale": "CHE VELASQUES ORIGINAL 10 CIGARILLOS",
+        "Prezzo_kg_euro": 212.00,
+        "Prezzo_confezione_euro": 5.30,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3380,
+        "Denominazione_commerciale": "CHE VELASQUES ORIGINAL 10 MINI CIGARILLOS",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 4.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3514,
+        "Denominazione_commerciale": "CHE VELASQUES ORO ECUADOR 10",
+        "Prezzo_kg_euro": 196.00,
+        "Prezzo_confezione_euro": 4.90,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3609,
+        "Denominazione_commerciale": "CHE VELASQUES ORO ECUADOR 10 MINI CIGARILLOS",
+        "Prezzo_kg_euro": 156.00,
+        "Prezzo_confezione_euro": 3.90,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3516,
+        "Denominazione_commerciale": "CHE VELASQUES ORO ECUADOR 3",
+        "Prezzo_kg_euro": 280.00,
+        "Prezzo_confezione_euro": 2.10,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3379,
+        "Denominazione_commerciale": "CHE VELASQUES ROJO ECUADOR 10 CIGARILLOS",
+        "Prezzo_kg_euro": 224.00,
+        "Prezzo_confezione_euro": 5.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3688,
+        "Denominazione_commerciale": "CHESTERFIELD LEAF",
+        "Prezzo_kg_euro": 96.00,
+        "Prezzo_confezione_euro": 2.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3823,
+        "Denominazione_commerciale": "CHESTERFIELD REMIX",
+        "Prezzo_kg_euro": 96.00,
+        "Prezzo_confezione_euro": 2.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2749,
+        "Denominazione_commerciale": "CLUBMASTER CIGARILLO FILTER RED",
+        "Prezzo_kg_euro": 134.00,
+        "Prezzo_confezione_euro": 6.70,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2748,
+        "Denominazione_commerciale": "CLUBMASTER MINI BLUE",
+        "Prezzo_kg_euro": 130.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2633,
+        "Denominazione_commerciale": "CLUBMASTER MINI BROWN",
+        "Prezzo_kg_euro": 130.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21628,
+        "Denominazione_commerciale": "CLUBMASTER MINI FILTER ICELAND",
+        "Prezzo_kg_euro": 130.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1617,
+        "Denominazione_commerciale": "CLUBMASTER MINI FILTER RED",
+        "Prezzo_kg_euro": 130.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1616,
+        "Denominazione_commerciale": "CLUBMASTER MINI RED",
+        "Prezzo_kg_euro": 130.00,
+        "Prezzo_confezione_euro": 6.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2193,
+        "Denominazione_commerciale": "CLUBMASTER MINI RED 5",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 1.50,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20224,
+        "Denominazione_commerciale": "CLUBMASTER RED SUPERIOR FILTER 20",
+        "Prezzo_kg_euro": 138.00,
+        "Prezzo_confezione_euro": 6.90,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21640,
+        "Denominazione_commerciale": "CLUBMASTER RED SUPERIOR FILTER 5",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21698,
+        "Denominazione_commerciale": "CLUBMASTER RED SUPERIOR FILTER DISPLAY",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 88.00,
+        "Tipo_confezione": "Confezione da 200 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3579,
+        "Denominazione_commerciale": "CLUBMASTER SUPERIOR FILTER 10",
+        "Prezzo_kg_euro": 108.00,
+        "Prezzo_confezione_euro": 2.70,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3610,
+        "Denominazione_commerciale": "CLUBMASTER WHITE MINI FILTER 20",
+        "Prezzo_kg_euro": 108.00,
+        "Prezzo_confezione_euro": 5.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3611,
+        "Denominazione_commerciale": "CLUBMASTER WHITE SUPERIOR FILTER 10",
+        "Prezzo_kg_euro": 108.00,
+        "Prezzo_confezione_euro": 2.70,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17933,
+        "Denominazione_commerciale": "COHIBA CLUB",
+        "Prezzo_kg_euro": 524.00,
+        "Prezzo_confezione_euro": 13.10,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 16540,
+        "Denominazione_commerciale": "COHIBA CLUB 20",
+        "Prezzo_kg_euro": 508.00,
+        "Prezzo_confezione_euro": 25.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1275,
+        "Denominazione_commerciale": "COHIBA MINI",
+        "Prezzo_kg_euro": 396.00,
+        "Prezzo_confezione_euro": 9.90,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 18666,
+        "Denominazione_commerciale": "COHIBA MINI WHITE",
+        "Prezzo_kg_euro": 396.00,
+        "Prezzo_confezione_euro": 9.90,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 19131,
+        "Denominazione_commerciale": "COHIBA SHORT",
+        "Prezzo_kg_euro": 732.00,
+        "Prezzo_confezione_euro": 18.30,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20924,
+        "Denominazione_commerciale": "COHIBA SHORT 88 DRAGON",
+        "Prezzo_kg_euro": 1136.36,
+        "Prezzo_confezione_euro": 250.00,
+        "Tipo_confezione": "Confezione da 88 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20465,
+        "Denominazione_commerciale": "COHIBA SHORT 88 YEAR OF THE RABBIT",
+        "Prezzo_kg_euro": 1136.36,
+        "Prezzo_confezione_euro": 250.00,
+        "Tipo_confezione": "Confezione da 88 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20923,
+        "Denominazione_commerciale": "COHIBA WIDE SHORT 6",
+        "Prezzo_kg_euro": 1480.00,
+        "Prezzo_confezione_euro": 22.20,
+        "Tipo_confezione": "Confezione da 6 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3475,
+        "Denominazione_commerciale": "CUBERO 10 RED FILTER",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 4.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3474,
+        "Denominazione_commerciale": "CUBERO 10 RED MINI",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3473,
+        "Denominazione_commerciale": "CUBERO 10 RED MINI FILTER",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3602,
+        "Denominazione_commerciale": "CUBERO 10 WHITE FILTER",
+        "Prezzo_kg_euro": 172.00,
+        "Prezzo_confezione_euro": 4.30,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3480,
+        "Denominazione_commerciale": "CUBERO 3 RED FILTER CIGARILLOS",
+        "Prezzo_kg_euro": 133.37,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3478,
+        "Denominazione_commerciale": "CUBERO 3 RED MINI CIGARILLOS",
+        "Prezzo_kg_euro": 133.37,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3479,
+        "Denominazione_commerciale": "CUBERO 3 RED MINI FILTER CIGARILLOS",
+        "Prezzo_kg_euro": 133.37,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3538,
+        "Denominazione_commerciale": "DANNEMANN SAMBA",
+        "Prezzo_kg_euro": 224.00,
+        "Prezzo_confezione_euro": 5.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1840,
+        "Denominazione_commerciale": "DAVIDOFF CLUB",
+        "Prezzo_kg_euro": 520.00,
+        "Prezzo_confezione_euro": 13.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17543,
+        "Denominazione_commerciale": "DAVIDOFF DEMI TASSE 50",
+        "Prezzo_kg_euro": 1000.00,
+        "Prezzo_confezione_euro": 125.00,
+        "Tipo_confezione": "Confezione da 50 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 901,
+        "Denominazione_commerciale": "DAVIDOFF DEMI TASSE 10",
+        "Prezzo_kg_euro": 940.00,
+        "Prezzo_confezione_euro": 23.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17407,
+        "Denominazione_commerciale": "DAVIDOFF EXQUISITOS",
+        "Prezzo_kg_euro": 2100.00,
+        "Prezzo_confezione_euro": 52.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3524,
+        "Denominazione_commerciale": "DAVIDOFF MINI CIGARILLOS ESCURIO 20",
+        "Prezzo_kg_euro": 376.00,
+        "Prezzo_confezione_euro": 18.80,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 903,
+        "Denominazione_commerciale": "DAVIDOFF MINI CIGARILLOS GOLD 10",
+        "Prezzo_kg_euro": 384.00,
+        "Prezzo_confezione_euro": 9.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 769,
+        "Denominazione_commerciale": "DAVIDOFF MINI CIGARILLOS GOLD 20",
+        "Prezzo_kg_euro": 376.00,
+        "Prezzo_confezione_euro": 18.80,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17294,
+        "Denominazione_commerciale": "DAVIDOFF MINI CIGARILLOS GOLD 50",
+        "Prezzo_kg_euro": 500.00,
+        "Prezzo_confezione_euro": 62.50,
+        "Tipo_confezione": "Confezione da 50 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3253,
+        "Denominazione_commerciale": "DAVIDOFF MINI CIGARILLOS NICARAGUA 20",
+        "Prezzo_kg_euro": 376.00,
+        "Prezzo_confezione_euro": 18.80,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 956,
+        "Denominazione_commerciale": "DAVIDOFF MINI CIGARILLOS SILVER 20",
+        "Prezzo_kg_euro": 376.00,
+        "Prezzo_confezione_euro": 18.80,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17544,
+        "Denominazione_commerciale": "DAVIDOFF MINI CIGARILLOS SILVER 50",
+        "Prezzo_kg_euro": 500.00,
+        "Prezzo_confezione_euro": 62.50,
+        "Tipo_confezione": "Confezione da 50 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3742,
+        "Denominazione_commerciale": "DJARUM BLACK",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3744,
+        "Denominazione_commerciale": "DJARUM SPECIAL",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3743,
+        "Denominazione_commerciale": "DJARUM SUPER",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3879,
+        "Denominazione_commerciale": "ELIXYR VERTE FILTER CIGARILLOS",
+        "Prezzo_kg_euro": 98.83,
+        "Prezzo_confezione_euro": 4.20,
+        "Tipo_confezione": "Confezione da 17 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20692,
+        "Denominazione_commerciale": "ESSENZE - BISOU BISOU",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 3.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20696,
+        "Denominazione_commerciale": "ESSENZE - CAVENDISH FIRE",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 3.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20695,
+        "Denominazione_commerciale": "ESSENZE - INDIAN SUMMER",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 3.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20693,
+        "Denominazione_commerciale": "ESSENZE - SMOKEY TABOO",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 3.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3604,
+        "Denominazione_commerciale": "ESSENZE AROMA",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 1.20,
+        "Tipo_confezione": "Confezione da 4 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2900,
+        "Denominazione_commerciale": "ESSENZE AROMA",
+        "Prezzo_kg_euro": 80.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3603,
+        "Denominazione_commerciale": "ESSENZE C",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 1.20,
+        "Tipo_confezione": "Confezione da 4 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2898,
+        "Denominazione_commerciale": "ESSENZE C",
+        "Prezzo_kg_euro": 80.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3580,
+        "Denominazione_commerciale": "ESSENZE V",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 1.20,
+        "Tipo_confezione": "Confezione da 4 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2899,
+        "Denominazione_commerciale": "ESSENZE V",
+        "Prezzo_kg_euro": 80.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3630,
+        "Denominazione_commerciale": "ESSENZE WILD",
+        "Prezzo_kg_euro": 94.00,
+        "Prezzo_confezione_euro": 4.70,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1968,
+        "Denominazione_commerciale": "GRIFFINOS",
+        "Prezzo_kg_euro": 170.00,
+        "Prezzo_confezione_euro": 8.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21565,
+        "Denominazione_commerciale": "GUANTANAMERA MINI",
+        "Prezzo_kg_euro": 168.00,
+        "Prezzo_confezione_euro": 8.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17144,
+        "Denominazione_commerciale": "GUANTANAMERA PURITOS",
+        "Prezzo_kg_euro": 336.00,
+        "Prezzo_confezione_euro": 4.20,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2750,
+        "Denominazione_commerciale": "HANDELSGOLD APL",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3893,
+        "Denominazione_commerciale": "HANDELSGOLD APL 3",
+        "Prezzo_kg_euro": 133.34,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2519,
+        "Denominazione_commerciale": "HANDELSGOLD BLOND",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2585,
+        "Denominazione_commerciale": "HANDELSGOLD BLUE",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3894,
+        "Denominazione_commerciale": "HANDELSGOLD BLUE 3",
+        "Prezzo_kg_euro": 133.34,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3035,
+        "Denominazione_commerciale": "HANDELSGOLD BROWN",
+        "Prezzo_kg_euro": 110.00,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 8 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20223,
+        "Denominazione_commerciale": "HANDELSGOLD BROWN 5",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2517,
+        "Denominazione_commerciale": "HANDELSGOLD CLASSIC",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20864,
+        "Denominazione_commerciale": "HANDELSGOLD COLLECTION",
+        "Prezzo_kg_euro": 133.34,
+        "Prezzo_confezione_euro": 25.00,
+        "Tipo_confezione": "Confezione da 75 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3251,
+        "Denominazione_commerciale": "HANDELSGOLD COLLECTION BOX",
+        "Prezzo_kg_euro": 110.00,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 8 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3895,
+        "Denominazione_commerciale": "HANDELSGOLD PURPLE 3",
+        "Prezzo_kg_euro": 133.34,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20862,
+        "Denominazione_commerciale": "HANDELSGOLD PURPLE 5",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2516,
+        "Denominazione_commerciale": "HANDELSGOLD RED",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21564,
+        "Denominazione_commerciale": "HANDELSGOLD SUMMER 5",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2518,
+        "Denominazione_commerciale": "HANDELSGOLD SUN",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3896,
+        "Denominazione_commerciale": "HANDELSGOLD SUN 3",
+        "Prezzo_kg_euro": 133.34,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3897,
+        "Denominazione_commerciale": "HANDELSGOLD WHITE 3",
+        "Prezzo_kg_euro": 133.34,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20863,
+        "Denominazione_commerciale": "HANDELSGOLD WHITE 5",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 18615,
+        "Denominazione_commerciale": "IL CAVALIERE",
+        "Prezzo_kg_euro": 800.00,
+        "Prezzo_confezione_euro": 20.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 534,
+        "Denominazione_commerciale": "J. CORTES MINI",
+        "Prezzo_kg_euro": 188.00,
+        "Prezzo_confezione_euro": 4.70,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3964,
+        "Denominazione_commerciale": "J. CORTES MINI 20",
+        "Prezzo_kg_euro": 234.00,
+        "Prezzo_confezione_euro": 11.70,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20075,
+        "Denominazione_commerciale": "J. CORTES MINI DOMINICAN 20",
+        "Prezzo_kg_euro": 234.00,
+        "Prezzo_confezione_euro": 11.70,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 16548,
+        "Denominazione_commerciale": "JOSE' L. PIEDRA MINI",
+        "Prezzo_kg_euro": 180.00,
+        "Prezzo_confezione_euro": 9.00,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1205,
+        "Denominazione_commerciale": "LA PAZ 10 CIGARILLOS",
+        "Prezzo_kg_euro": 220.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3418,
+        "Denominazione_commerciale": "LA PAZ 10 MINI CIGARILLOS",
+        "Prezzo_kg_euro": 192.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3419,
+        "Denominazione_commerciale": "LA PAZ 10 MINIATURAS",
+        "Prezzo_kg_euro": 192.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3648,
+        "Denominazione_commerciale": "LUCKY STRIKE CRISP TOBACCO LEAF ROLLED",
+        "Prezzo_kg_euro": 104.00,
+        "Prezzo_confezione_euro": 2.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3528,
+        "Denominazione_commerciale": "MARLBORO LEAF",
+        "Prezzo_kg_euro": 108.00,
+        "Prezzo_confezione_euro": 2.70,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3529,
+        "Denominazione_commerciale": "MARLBORO LEAF BEYOND",
+        "Prezzo_kg_euro": 108.00,
+        "Prezzo_confezione_euro": 2.70,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1842,
+        "Denominazione_commerciale": "MATRIX",
+        "Prezzo_kg_euro": 90.00,
+        "Prezzo_confezione_euro": 4.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3417,
+        "Denominazione_commerciale": "MATRIX FILTERS 10",
+        "Prezzo_kg_euro": 88.00,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3443,
+        "Denominazione_commerciale": "MATRIX XL 10",
+        "Prezzo_kg_euro": 112.00,
+        "Prezzo_confezione_euro": 2.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3226,
+        "Denominazione_commerciale": "MATRIX XL 4",
+        "Prezzo_kg_euro": 130.00,
+        "Prezzo_confezione_euro": 1.30,
+        "Tipo_confezione": "Confezione da 4 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21766,
+        "Denominazione_commerciale": "MEHARI'S ECUADOR",
+        "Prezzo_kg_euro": 168.00,
+        "Prezzo_confezione_euro": 8.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21767,
+        "Denominazione_commerciale": "MEHARI'S JAVA",
+        "Prezzo_kg_euro": 168.00,
+        "Prezzo_confezione_euro": 8.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21768,
+        "Denominazione_commerciale": "MEHARI'S RED ORIEN",
+        "Prezzo_kg_euro": 168.00,
+        "Prezzo_confezione_euro": 8.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 799,
+        "Denominazione_commerciale": "MINI COHIBA",
+        "Prezzo_kg_euro": 384.00,
+        "Prezzo_confezione_euro": 19.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2102,
+        "Denominazione_commerciale": "MINI MOODS DOUBLE FILTER 10",
+        "Prezzo_kg_euro": 192.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3551,
+        "Denominazione_commerciale": "MINI MOODS DOUBLE FILTER 2",
+        "Prezzo_kg_euro": 70.00,
+        "Prezzo_confezione_euro": 0.35,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3477,
+        "Denominazione_commerciale": "MINI MOODS DOUBLE FILTER 20",
+        "Prezzo_kg_euro": 186.00,
+        "Prezzo_confezione_euro": 9.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2177,
+        "Denominazione_commerciale": "MINI MOODS DOUBLE FILTER 3",
+        "Prezzo_kg_euro": 213.34,
+        "Prezzo_confezione_euro": 1.60,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21688,
+        "Denominazione_commerciale": "MINI MOODS DOUBLE FILTER 5",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 2.60,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17934,
+        "Denominazione_commerciale": "MONTECRISTO CLUB",
+        "Prezzo_kg_euro": 448.00,
+        "Prezzo_confezione_euro": 11.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 16525,
+        "Denominazione_commerciale": "MONTECRISTO CLUB",
+        "Prezzo_kg_euro": 424.00,
+        "Prezzo_confezione_euro": 21.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 674,
+        "Denominazione_commerciale": "MONTECRISTO MINI",
+        "Prezzo_kg_euro": 286.00,
+        "Prezzo_confezione_euro": 14.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1274,
+        "Denominazione_commerciale": "MONTECRISTO MINI",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 7.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17338,
+        "Denominazione_commerciale": "MONTECRISTO MINI BOX WOOD",
+        "Prezzo_kg_euro": 296.00,
+        "Prezzo_confezione_euro": 37.00,
+        "Tipo_confezione": "Confezione da 50 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17720,
+        "Denominazione_commerciale": "MONTECRISTO PURITOS",
+        "Prezzo_kg_euro": 680.00,
+        "Prezzo_confezione_euro": 8.50,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 19857,
+        "Denominazione_commerciale": "MONTECRISTO SHORT",
+        "Prezzo_kg_euro": 604.00,
+        "Prezzo_confezione_euro": 15.10,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20466,
+        "Denominazione_commerciale": "MONTECRISTO SHORT 66 YEAR OF THE RABBIT",
+        "Prezzo_kg_euro": 909.09,
+        "Prezzo_confezione_euro": 150.00,
+        "Tipo_confezione": "Confezione da 66 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21679,
+        "Denominazione_commerciale": "MONTOSA CIGARILLOS 20",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 15.00,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21678,
+        "Denominazione_commerciale": "MONTOSA MADURO CIGARILLOS 20",
+        "Prezzo_kg_euro": 300.00,
+        "Prezzo_confezione_euro": 15.00,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 881,
+        "Denominazione_commerciale": "MOODS",
+        "Prezzo_kg_euro": 186.00,
+        "Prezzo_confezione_euro": 9.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3553,
+        "Denominazione_commerciale": "MOODS 3",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1730,
+        "Denominazione_commerciale": "MOODS 5",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 2.60,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 675,
+        "Denominazione_commerciale": "MOODS FILTER",
+        "Prezzo_kg_euro": 188.00,
+        "Prezzo_confezione_euro": 9.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3842,
+        "Denominazione_commerciale": "MOODS FILTER 20 EDIZIONE LIMITATA ITALIA",
+        "Prezzo_kg_euro": 188.00,
+        "Prezzo_confezione_euro": 9.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2621,
+        "Denominazione_commerciale": "MOODS FILTER 3",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1731,
+        "Denominazione_commerciale": "MOODS FILTER 5",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 2.60,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1232,
+        "Denominazione_commerciale": "MOODS GOLD FILTER 20",
+        "Prezzo_kg_euro": 188.00,
+        "Prezzo_confezione_euro": 9.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3554,
+        "Denominazione_commerciale": "MOODS GOLD FILTER 3",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 1.80,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1732,
+        "Denominazione_commerciale": "MOODS GOLD FILTER 5",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 2.60,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3657,
+        "Denominazione_commerciale": "MOODS LONG FILTER 10",
+        "Prezzo_kg_euro": 192.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3689,
+        "Denominazione_commerciale": "MOODS LONG FILTER 2",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 0.80,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3933,
+        "Denominazione_commerciale": "MOODS LONG FILTER 3",
+        "Prezzo_kg_euro": 186.67,
+        "Prezzo_confezione_euro": 1.40,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3903,
+        "Denominazione_commerciale": "MOODS SILVER FILTER 10",
+        "Prezzo_kg_euro": 192.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2619,
+        "Denominazione_commerciale": "MOODS SILVER FILTER 12",
+        "Prezzo_kg_euro": 186.67,
+        "Prezzo_confezione_euro": 5.60,
+        "Tipo_confezione": "Confezione da 12 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3904,
+        "Denominazione_commerciale": "MOODS SUNSHINE FILTER 10",
+        "Prezzo_kg_euro": 192.00,
+        "Prezzo_confezione_euro": 4.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3172,
+        "Denominazione_commerciale": "MOODS SUNSHINE FILTER 12",
+        "Prezzo_kg_euro": 186.67,
+        "Prezzo_confezione_euro": 5.60,
+        "Tipo_confezione": "Confezione da 12 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3552,
+        "Denominazione_commerciale": "MOODS SUNSHINE FILTER 2",
+        "Prezzo_kg_euro": 90.00,
+        "Prezzo_confezione_euro": 0.45,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3905,
+        "Denominazione_commerciale": "MOODS SUNSHINE FILTER 20",
+        "Prezzo_kg_euro": 186.00,
+        "Prezzo_confezione_euro": 9.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3173,
+        "Denominazione_commerciale": "MOODS SUNSHINE FILTER 3",
+        "Prezzo_kg_euro": 213.34,
+        "Prezzo_confezione_euro": 1.60,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21689,
+        "Denominazione_commerciale": "MOODS SUNSHINE FILTER 5",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 2.60,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3530,
+        "Denominazione_commerciale": "MS I SIGARETTI",
+        "Prezzo_kg_euro": 112.00,
+        "Prezzo_confezione_euro": 2.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3963,
+        "Denominazione_commerciale": "NEOS EXO BLUE 10",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3962,
+        "Denominazione_commerciale": "NEOS EXO FILTER 10",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3476,
+        "Denominazione_commerciale": "NEOS MINI 20",
+        "Prezzo_kg_euro": 138.00,
+        "Prezzo_confezione_euro": 6.90,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3427,
+        "Denominazione_commerciale": "NEOS MINI BLANC FILTER 20",
+        "Prezzo_kg_euro": 138.00,
+        "Prezzo_confezione_euro": 6.90,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3428,
+        "Denominazione_commerciale": "NEOS MINI BLANC FILTER 5",
+        "Prezzo_kg_euro": 184.00,
+        "Prezzo_confezione_euro": 2.30,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3425,
+        "Denominazione_commerciale": "NEOS MINI CAPPRICCIO FILTER 20",
+        "Prezzo_kg_euro": 138.00,
+        "Prezzo_confezione_euro": 6.90,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3426,
+        "Denominazione_commerciale": "NEOS MINI CAPPRICCIO FILTER 5",
+        "Prezzo_kg_euro": 184.00,
+        "Prezzo_confezione_euro": 2.30,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2902,
+        "Denominazione_commerciale": "NEOS MINI EXPRESS RED",
+        "Prezzo_kg_euro": 108.00,
+        "Prezzo_confezione_euro": 5.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3429,
+        "Denominazione_commerciale": "NEOS MINI RED 20",
+        "Prezzo_kg_euro": 138.00,
+        "Prezzo_confezione_euro": 6.90,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3430,
+        "Denominazione_commerciale": "NEOS MINI RED 5",
+        "Prezzo_kg_euro": 184.00,
+        "Prezzo_confezione_euro": 2.30,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3181,
+        "Denominazione_commerciale": "NEOS MINI RED FILTER 20",
+        "Prezzo_kg_euro": 138.00,
+        "Prezzo_confezione_euro": 6.90,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3182,
+        "Denominazione_commerciale": "NEOS MINI RED FILTER 5",
+        "Prezzo_kg_euro": 184.00,
+        "Prezzo_confezione_euro": 2.30,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2228,
+        "Denominazione_commerciale": "NEOS PACIFIC CAPPRICCIO 10",
+        "Prezzo_kg_euro": 184.00,
+        "Prezzo_confezione_euro": 4.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3980,
+        "Denominazione_commerciale": "NEOS PACIFIC CLASSIC 10",
+        "Prezzo_kg_euro": 184.00,
+        "Prezzo_confezione_euro": 4.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 789,
+        "Denominazione_commerciale": "NEOS PACIFIC RED 10",
+        "Prezzo_kg_euro": 184.00,
+        "Prezzo_confezione_euro": 4.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 696,
+        "Denominazione_commerciale": "NOBEL PETIT",
+        "Prezzo_kg_euro": 204.00,
+        "Prezzo_confezione_euro": 10.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 202,
+        "Denominazione_commerciale": "PANTER BLUE",
+        "Prezzo_kg_euro": 148.00,
+        "Prezzo_confezione_euro": 3.70,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1277,
+        "Denominazione_commerciale": "PANTER DESERT 20",
+        "Prezzo_kg_euro": 146.00,
+        "Prezzo_confezione_euro": 7.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2037,
+        "Denominazione_commerciale": "PANTER DESERT 5",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 2.00,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3785,
+        "Denominazione_commerciale": "PANTER FILTER DESERT 10",
+        "Prezzo_kg_euro": 160.00,
+        "Prezzo_confezione_euro": 4.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1841,
+        "Denominazione_commerciale": "PANTER FILTER DESERT 20",
+        "Prezzo_kg_euro": 146.00,
+        "Prezzo_confezione_euro": 7.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2038,
+        "Denominazione_commerciale": "PANTER FILTER DESERT 5",
+        "Prezzo_kg_euro": 152.00,
+        "Prezzo_confezione_euro": 1.90,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3940,
+        "Denominazione_commerciale": "PANTER FILTER G.",
+        "Prezzo_kg_euro": 128.00,
+        "Prezzo_confezione_euro": 3.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3649,
+        "Denominazione_commerciale": "PANTER FILTER ORO 14",
+        "Prezzo_kg_euro": 145.71,
+        "Prezzo_confezione_euro": 5.10,
+        "Tipo_confezione": "Confezione da 14 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3225,
+        "Denominazione_commerciale": "PANTER FILTER RED 14",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 4.90,
+        "Tipo_confezione": "Confezione da 14 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20694,
+        "Denominazione_commerciale": "PANTER FILTER RED 20",
+        "Prezzo_kg_euro": 146.00,
+        "Prezzo_confezione_euro": 7.30,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3784,
+        "Denominazione_commerciale": "PANTER FILTER RED SWIRL 10",
+        "Prezzo_kg_euro": 152.00,
+        "Prezzo_confezione_euro": 3.80,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 730,
+        "Denominazione_commerciale": "PANTER MIGNON DE LUXE",
+        "Prezzo_kg_euro": 136.00,
+        "Prezzo_confezione_euro": 6.80,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21267,
+        "Denominazione_commerciale": "PANTER POCKET DOUBLE FILTER",
+        "Prezzo_kg_euro": 128.00,
+        "Prezzo_confezione_euro": 3.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20617,
+        "Denominazione_commerciale": "PANTER POCKET FILTER G.",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20141,
+        "Denominazione_commerciale": "PANTER POCKET FILTER SWIRL BRONZE",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20140,
+        "Denominazione_commerciale": "PANTER POCKET FILTER SWIRL RED",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 18174,
+        "Denominazione_commerciale": "PARTAGAS 10 CLUB",
+        "Prezzo_kg_euro": 336.00,
+        "Prezzo_confezione_euro": 8.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 18173,
+        "Denominazione_commerciale": "PARTAGAS 10 MINI",
+        "Prezzo_kg_euro": 244.00,
+        "Prezzo_confezione_euro": 6.10,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20686,
+        "Denominazione_commerciale": "PARTAGAS 20 MINI",
+        "Prezzo_kg_euro": 232.00,
+        "Prezzo_confezione_euro": 11.60,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 15500,
+        "Denominazione_commerciale": "PARTAGAS CHICOS",
+        "Prezzo_kg_euro": 592.00,
+        "Prezzo_confezione_euro": 7.40,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 18832,
+        "Denominazione_commerciale": "PARTAGAS CLUB SERIE",
+        "Prezzo_kg_euro": 344.00,
+        "Prezzo_confezione_euro": 8.60,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 18830,
+        "Denominazione_commerciale": "PARTAGAS MINI SERIE",
+        "Prezzo_kg_euro": 248.00,
+        "Prezzo_confezione_euro": 6.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3525,
+        "Denominazione_commerciale": "ROLL'S RED",
+        "Prezzo_kg_euro": 73.34,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 12 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2212,
+        "Denominazione_commerciale": "ROLL'S RED",
+        "Prezzo_kg_euro": 104.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3526,
+        "Denominazione_commerciale": "ROLL'S WHITE",
+        "Prezzo_kg_euro": 73.34,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 12 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2213,
+        "Denominazione_commerciale": "ROLL'S WHITE",
+        "Prezzo_kg_euro": 104.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 18018,
+        "Denominazione_commerciale": "ROMEO Y JULIETA CLUB",
+        "Prezzo_kg_euro": 364.00,
+        "Prezzo_confezione_euro": 18.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21545,
+        "Denominazione_commerciale": "ROMEO Y JULIETA MINI",
+        "Prezzo_kg_euro": 236.00,
+        "Prezzo_confezione_euro": 11.80,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 17081,
+        "Denominazione_commerciale": "ROMEO Y JULIETA MINI",
+        "Prezzo_kg_euro": 240.00,
+        "Prezzo_confezione_euro": 6.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 18101,
+        "Denominazione_commerciale": "ROMEO Y JULIETA PURITOS",
+        "Prezzo_kg_euro": 648.00,
+        "Prezzo_confezione_euro": 8.10,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3542,
+        "Denominazione_commerciale": "ROTHMANS OF LONDON CIGARILLOS",
+        "Prezzo_kg_euro": 108.00,
+        "Prezzo_confezione_euro": 2.70,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3647,
+        "Denominazione_commerciale": "ROTHMANS OF LONDON TOBACCO LEAF ROLLED",
+        "Prezzo_kg_euro": 100.00,
+        "Prezzo_confezione_euro": 2.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1759,
+        "Denominazione_commerciale": "SALSA FILTER ORIGINAL",
+        "Prezzo_kg_euro": 136.00,
+        "Prezzo_confezione_euro": 3.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1760,
+        "Denominazione_commerciale": "SALSA FILTER RED",
+        "Prezzo_kg_euro": 136.00,
+        "Prezzo_confezione_euro": 3.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3332,
+        "Denominazione_commerciale": "SIGNATURE 01 BROWN FILTER",
+        "Prezzo_kg_euro": 155.00,
+        "Prezzo_confezione_euro": 3.10,
+        "Tipo_confezione": "Confezione da 8 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3333,
+        "Denominazione_commerciale": "SIGNATURE 02 BEIGE FILTER",
+        "Prezzo_kg_euro": 155.00,
+        "Prezzo_confezione_euro": 3.10,
+        "Tipo_confezione": "Confezione da 8 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3671,
+        "Denominazione_commerciale": "SIGNATURE BLUE",
+        "Prezzo_kg_euro": 96.00,
+        "Prezzo_confezione_euro": 2.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 900,
+        "Denominazione_commerciale": "SIGNATURE BLUE CIGARILLOS",
+        "Prezzo_kg_euro": 220.00,
+        "Prezzo_confezione_euro": 5.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3669,
+        "Denominazione_commerciale": "SIGNATURE FINOS BEIGE",
+        "Prezzo_kg_euro": 156.00,
+        "Prezzo_confezione_euro": 3.90,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3668,
+        "Denominazione_commerciale": "SIGNATURE FINOS BEIGE FILTER",
+        "Prezzo_kg_euro": 168.00,
+        "Prezzo_confezione_euro": 4.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3548,
+        "Denominazione_commerciale": "SIGNATURE FINOS BLUE FILTER",
+        "Prezzo_kg_euro": 164.00,
+        "Prezzo_confezione_euro": 4.10,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3796,
+        "Denominazione_commerciale": "SIGNATURE FINOS FILTER BEIGE 3 CIGARILLOS",
+        "Prezzo_kg_euro": 133.37,
+        "Prezzo_confezione_euro": 1.00,
+        "Tipo_confezione": "Confezione da 3 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3843,
+        "Denominazione_commerciale": "SIGNATURE FINOS FILTER G.",
+        "Prezzo_kg_euro": 172.00,
+        "Prezzo_confezione_euro": 4.30,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3844,
+        "Denominazione_commerciale": "SIGNATURE FINOS HINDUSTAN FILTER",
+        "Prezzo_kg_euro": 128.00,
+        "Prezzo_confezione_euro": 3.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3786,
+        "Denominazione_commerciale": "SIGNATURE FINOS INDOCHINE FILTER",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3845,
+        "Denominazione_commerciale": "SIGNATURE FINOS MEXICA FILTER",
+        "Prezzo_kg_euro": 128.00,
+        "Prezzo_confezione_euro": 3.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2048,
+        "Denominazione_commerciale": "SIGNATURE FINOS ORIGINAL",
+        "Prezzo_kg_euro": 164.00,
+        "Prezzo_confezione_euro": 4.10,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3787,
+        "Denominazione_commerciale": "SIGNATURE FINOS PERSE FILTER",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 3.00,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2049,
+        "Denominazione_commerciale": "SIGNATURE FINOS RED",
+        "Prezzo_kg_euro": 136.00,
+        "Prezzo_confezione_euro": 3.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3036,
+        "Denominazione_commerciale": "SIGNATURE FINOS RED FILTER",
+        "Prezzo_kg_euro": 156.00,
+        "Prezzo_confezione_euro": 3.90,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3670,
+        "Denominazione_commerciale": "SIGNATURE G",
+        "Prezzo_kg_euro": 96.00,
+        "Prezzo_confezione_euro": 2.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 384,
+        "Denominazione_commerciale": "SIGNATURE ORIGINAL",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3946,
+        "Denominazione_commerciale": "SIGNATURE P.",
+        "Prezzo_kg_euro": 96.00,
+        "Prezzo_confezione_euro": 2.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20463,
+        "Denominazione_commerciale": "SIGNATURE RED",
+        "Prezzo_kg_euro": 96.00,
+        "Prezzo_confezione_euro": 2.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 936,
+        "Denominazione_commerciale": "SIGNATURE RED",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 4.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1233,
+        "Denominazione_commerciale": "SIGNATURE RED FILTER",
+        "Prezzo_kg_euro": 172.00,
+        "Prezzo_confezione_euro": 4.30,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3981,
+        "Denominazione_commerciale": "SIGNATURE SILHOUETTE BEIGE",
+        "Prezzo_kg_euro": 96.00,
+        "Prezzo_confezione_euro": 2.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3982,
+        "Denominazione_commerciale": "SIGNATURE SILHOUETTE BLUE",
+        "Prezzo_kg_euro": 96.00,
+        "Prezzo_confezione_euro": 2.40,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1843,
+        "Denominazione_commerciale": "SILVERADO AMERICAN BLEND",
+        "Prezzo_kg_euro": 90.00,
+        "Prezzo_confezione_euro": 4.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3667,
+        "Denominazione_commerciale": "SILVERADO DUO RED",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 0.70,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3702,
+        "Denominazione_commerciale": "SILVERADO DUO V",
+        "Prezzo_kg_euro": 140.00,
+        "Prezzo_confezione_euro": 0.70,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 1845,
+        "Denominazione_commerciale": "SILVERADO V",
+        "Prezzo_kg_euro": 90.00,
+        "Prezzo_confezione_euro": 4.50,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3143,
+        "Denominazione_commerciale": "SWISHER AMBER",
+        "Prezzo_kg_euro": 180.00,
+        "Prezzo_confezione_euro": 0.90,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3145,
+        "Denominazione_commerciale": "SWISHER AMETHYST",
+        "Prezzo_kg_euro": 180.00,
+        "Prezzo_confezione_euro": 0.90,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3141,
+        "Denominazione_commerciale": "SWISHER CLASSIC",
+        "Prezzo_kg_euro": 180.00,
+        "Prezzo_confezione_euro": 0.90,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3620,
+        "Denominazione_commerciale": "SWISHER DIAMOND",
+        "Prezzo_kg_euro": 180.00,
+        "Prezzo_confezione_euro": 0.90,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3621,
+        "Denominazione_commerciale": "SWISHER SAPPHIRE",
+        "Prezzo_kg_euro": 180.00,
+        "Prezzo_confezione_euro": 0.90,
+        "Tipo_confezione": "Confezione da 2 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3175,
+        "Denominazione_commerciale": "TOSCANO SIGARELLI N° 8 CLASSICO",
+        "Prezzo_kg_euro": 250.00,
+        "Prezzo_confezione_euro": 5.00,
+        "Tipo_confezione": "Confezione da 8 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3174,
+        "Denominazione_commerciale": "TOSCANO SIGARELLI N° 8 RED",
+        "Prezzo_kg_euro": 250.00,
+        "Prezzo_confezione_euro": 5.00,
+        "Tipo_confezione": "Confezione da 8 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 19441,
+        "Denominazione_commerciale": "TRINIDAD SHORT",
+        "Prezzo_kg_euro": 688.00,
+        "Prezzo_confezione_euro": 17.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20925,
+        "Denominazione_commerciale": "TRINIDAD SHORT 66 DRAGON",
+        "Prezzo_kg_euro": 1000.00,
+        "Prezzo_confezione_euro": 165.00,
+        "Tipo_confezione": "Confezione da 66 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21699,
+        "Denominazione_commerciale": "TRINIDAD WIDE SHORT",
+        "Prezzo_kg_euro": 1400.00,
+        "Prezzo_confezione_euro": 21.00,
+        "Tipo_confezione": "Confezione da 6 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 844,
+        "Denominazione_commerciale": "VILLIGER KIEL JUNIOR SUMATRA",
+        "Prezzo_kg_euro": 208.00,
+        "Prezzo_confezione_euro": 5.20,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 2839,
+        "Denominazione_commerciale": "VILLIGER RED MINI FILTER",
+        "Prezzo_kg_euro": 128.00,
+        "Prezzo_confezione_euro": 6.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3938,
+        "Denominazione_commerciale": "VILLIGER SAMBA MINI FILTER",
+        "Prezzo_kg_euro": 128.00,
+        "Prezzo_confezione_euro": 6.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3939,
+        "Denominazione_commerciale": "VILLIGER WHITE MINI FILTER",
+        "Prezzo_kg_euro": 128.00,
+        "Prezzo_confezione_euro": 6.40,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 3146,
+        "Denominazione_commerciale": "WILLEM II PRIMO 20 CIGARILLOS",
+        "Prezzo_kg_euro": 180.00,
+        "Prezzo_confezione_euro": 9.00,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21638,
+        "Denominazione_commerciale": "WTF! BERLIN 5",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20618,
+        "Denominazione_commerciale": "WTF! COLLECTION",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 60.00,
+        "Tipo_confezione": "Confezione da 200 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21639,
+        "Denominazione_commerciale": "WTF! COLLECTION BOX",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 88.00,
+        "Tipo_confezione": "Confezione da 200 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20177,
+        "Denominazione_commerciale": "WTF! CRAY",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 7.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20619,
+        "Denominazione_commerciale": "WTF! CRAY 5",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 1.50,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20620,
+        "Denominazione_commerciale": "WTF! LIT 5",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 1.50,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21636,
+        "Denominazione_commerciale": "WTF! MIAMI 5",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20178,
+        "Denominazione_commerciale": "WTF! RIO",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 7.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21635,
+        "Denominazione_commerciale": "WTF! RIO 5",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20179,
+        "Denominazione_commerciale": "WTF! SHEEESH",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 7.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20621,
+        "Denominazione_commerciale": "WTF! SHEEESH 5",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 1.50,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20180,
+        "Denominazione_commerciale": "WTF! SQUAD",
+        "Prezzo_kg_euro": 144.00,
+        "Prezzo_confezione_euro": 7.20,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20622,
+        "Denominazione_commerciale": "WTF! SQUAD 5",
+        "Prezzo_kg_euro": 120.00,
+        "Prezzo_confezione_euro": 1.50,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21637,
+        "Denominazione_commerciale": "WTF! TOKYO 5",
+        "Prezzo_kg_euro": 176.00,
+        "Prezzo_confezione_euro": 2.20,
+        "Tipo_confezione": "Confezione da 5 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20369,
+        "Denominazione_commerciale": "ZINO MINI CIGARILLOS",
+        "Prezzo_kg_euro": 256.00,
+        "Prezzo_confezione_euro": 12.80,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 20370,
+        "Denominazione_commerciale": "ZINO MINI CIGARILLOS NICARAGUA",
+        "Prezzo_kg_euro": 256.00,
+        "Prezzo_confezione_euro": 12.80,
+        "Tipo_confezione": "Confezione da 20 pezzi"
+    },
+    {
+        "Categoria": "Sigaretti",
+        "Codice": 21171,
+        "Denominazione_commerciale": "ZINO NICARAGUA SHORT PURITOS",
+        "Prezzo_kg_euro": 500.00,
+        "Prezzo_confezione_euro": 12.50,
+        "Tipo_confezione": "Confezione da 10 pezzi"
+    }
+]

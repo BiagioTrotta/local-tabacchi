@@ -1,0 +1,800 @@
+[
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3622,
+    "Denominazione_commerciale": "#NO NAME AUTHENTIC",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2553,
+    "Denominazione_commerciale": "#NO NAME BLACK",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3585,
+    "Denominazione_commerciale": "#NO NAME PINK",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 20467,
+    "Denominazione_commerciale": "#NO NAME RED",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3708,
+    "Denominazione_commerciale": "#NO NAME RISERVA No. 1",
+    "Prezzo_kg_euro": 216.67,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2554,
+    "Denominazione_commerciale": "#NO NAME VIRGINIA",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2552,
+    "Denominazione_commerciale": "#NO NAME WHITE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2754,
+    "Denominazione_commerciale": "#NO NAME WHITE 50 GR",
+    "Prezzo_kg_euro": 230.00,
+    "Prezzo_confezione_euro": 11.50,
+    "Tipo_confezione": "Confezione da 50 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3555,
+    "Denominazione_commerciale": "821 CAMOUFLAGE",
+    "Prezzo_kg_euro": 206.67,
+    "Prezzo_confezione_euro": 6.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3582,
+    "Denominazione_commerciale": "AMERICAN SPIRIT ORIGINAL BLUE",
+    "Prezzo_kg_euro": 214.28,
+    "Prezzo_confezione_euro": 15.00,
+    "Tipo_confezione": "Confezione da 70 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 1963,
+    "Denominazione_commerciale": "AMERICAN SPIRIT ORIGINAL BLUE 30G",
+    "Prezzo_kg_euro": 266.67,
+    "Prezzo_confezione_euro": 8.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3299,
+    "Denominazione_commerciale": "AMERICAN SPIRIT ORIGINAL YELLOW 30G",
+    "Prezzo_kg_euro": 266.67,
+    "Prezzo_confezione_euro": 8.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3824,
+    "Denominazione_commerciale": "AMSTERDAMER ORIGINAL",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 7.80,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 21118,
+    "Denominazione_commerciale": "AMSTERDAMER XXX HIMALAYA",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 21117,
+    "Denominazione_commerciale": "AMSTERDAMER XXX NEPAL",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3814,
+    "Denominazione_commerciale": "BENSON & HEDGES BLUE",
+    "Prezzo_kg_euro": 216.67,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2255,
+    "Denominazione_commerciale": "BLACK DEVIL YELLOW 40 GR",
+    "Prezzo_kg_euro": 192.50,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3605,
+    "Denominazione_commerciale": "CAMEL BLONDE",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3458,
+    "Denominazione_commerciale": "CAMEL BLUE",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3658,
+    "Denominazione_commerciale": "CAMEL BLUE VOLUME",
+    "Prezzo_kg_euro": 253.33,
+    "Prezzo_confezione_euro": 7.60,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3459,
+    "Denominazione_commerciale": "CAMEL ESSENTIAL",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3457,
+    "Denominazione_commerciale": "CAMEL YELLOW",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3498,
+    "Denominazione_commerciale": "CHESTERFIELD BLUE",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3482,
+    "Denominazione_commerciale": "CHESTERFIELD BLUE VOLUME TOBACCO",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3497,
+    "Denominazione_commerciale": "CHESTERFIELD ORIGINAL FINE CUT TOBACCO",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3491,
+    "Denominazione_commerciale": "CHESTERFIELD ORIGINAL VOLUME TOBACCO",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3815,
+    "Denominazione_commerciale": "CHESTERFIELD PREMIUM VIRGINIA",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2555,
+    "Denominazione_commerciale": "CHESTERFIELD ROLL YOUR OWN",
+    "Prezzo_kg_euro": 237.50,
+    "Prezzo_confezione_euro": 19.00,
+    "Tipo_confezione": "Confezione da 80 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3499,
+    "Denominazione_commerciale": "CHESTERFIELD ROLL YOUR OWN",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3483,
+    "Denominazione_commerciale": "CHIARAVALLE BURLEY & VIRGINIA",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3484,
+    "Denominazione_commerciale": "CHIARAVALLE VIRGINIA",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3485,
+    "Denominazione_commerciale": "CHIARAVALLE VIRGINIA BRIGHT",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 706,
+    "Denominazione_commerciale": "DRUM BRIGHT BLUE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 10.00,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 336,
+    "Denominazione_commerciale": "DRUM ORIGINAL",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 10.00,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 361,
+    "Denominazione_commerciale": "DRUM WHITE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 10.00,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 21760,
+    "Denominazione_commerciale": "GOLDEN BLEND'S BLACK 30",
+    "Prezzo_kg_euro": 263.34,
+    "Prezzo_confezione_euro": 7.90,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 21761,
+    "Denominazione_commerciale": "GOLDEN BLEND'S PINK 30",
+    "Prezzo_kg_euro": 263.34,
+    "Prezzo_confezione_euro": 7.90,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 1538,
+    "Denominazione_commerciale": "GOLDEN BLEND'S VIRGINIA",
+    "Prezzo_kg_euro": 267.50,
+    "Prezzo_confezione_euro": 10.70,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3372,
+    "Denominazione_commerciale": "GOLDEN BLEND'S VIRGINIA 30",
+    "Prezzo_kg_euro": 266.67,
+    "Prezzo_confezione_euro": 8.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3432,
+    "Denominazione_commerciale": "GOLDEN BLEND'S VIRGINIA GT 30",
+    "Prezzo_kg_euro": 266.67,
+    "Prezzo_confezione_euro": 8.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 21759,
+    "Denominazione_commerciale": "GOLDEN BLEND'S WHITE 30",
+    "Prezzo_kg_euro": 263.34,
+    "Prezzo_confezione_euro": 7.90,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3465,
+    "Denominazione_commerciale": "GOLDEN VIRGINIA ABSOLUTE",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3486,
+    "Denominazione_commerciale": "GOLDEN VIRGINIA THE ORIGINAL",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 801,
+    "Denominazione_commerciale": "GOLDEN VIRGINIA THE ORIGINAL 40G",
+    "Prezzo_kg_euro": 262.50,
+    "Prezzo_confezione_euro": 10.50,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3487,
+    "Denominazione_commerciale": "GOLDEN VIRGINIA THE ORIGINAL YELLOW",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 1915,
+    "Denominazione_commerciale": "GOLDEN VIRGINIA THE ORIGINAL YELLOW 40G",
+    "Prezzo_kg_euro": 262.50,
+    "Prezzo_confezione_euro": 10.50,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3802,
+    "Denominazione_commerciale": "HORIZON",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3942,
+    "Denominazione_commerciale": "HORIZON BLUE",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3846,
+    "Denominazione_commerciale": "IGN IL GUSTO NOSTRANO",
+    "Prezzo_kg_euro": 263.34,
+    "Prezzo_confezione_euro": 7.90,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3519,
+    "Denominazione_commerciale": "JPS BLUE 30 GR",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 20201,
+    "Denominazione_commerciale": "JPS BLUE VOLUME",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3488,
+    "Denominazione_commerciale": "JPS JUST BLUE",
+    "Prezzo_kg_euro": 233.33,
+    "Prezzo_confezione_euro": 7.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3489,
+    "Denominazione_commerciale": "JPS JUST RED",
+    "Prezzo_kg_euro": 233.33,
+    "Prezzo_confezione_euro": 7.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3520,
+    "Denominazione_commerciale": "JPS RED 30 GR",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+   {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3449,
+    "Denominazione_commerciale": "LUCKY STRIKE BLUE 30",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3451,
+    "Denominazione_commerciale": "LUCKY STRIKE ORIGINAL BLUE 30",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3450,
+    "Denominazione_commerciale": "LUCKY STRIKE ORIGINAL RED 30",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3448,
+    "Denominazione_commerciale": "LUCKY STRIKE RED 30",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 7.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 126,
+    "Denominazione_commerciale": "MANILA",
+    "Prezzo_kg_euro": 267.50,
+    "Prezzo_confezione_euro": 10.70,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2487,
+    "Denominazione_commerciale": "MANITOU VIRGINIA GOLD",
+    "Prezzo_kg_euro": 220.00,
+    "Prezzo_confezione_euro": 6.60,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3518,
+    "Denominazione_commerciale": "MANITOU VIRGINIA ORIGINAL",
+    "Prezzo_kg_euro": 230.00,
+    "Prezzo_confezione_euro": 6.90,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2488,
+    "Denominazione_commerciale": "MANITOU VIRGINIA PINK",
+    "Prezzo_kg_euro": 220.00,
+    "Prezzo_confezione_euro": 6.60,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2767,
+    "Denominazione_commerciale": "MARLBORO",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 17.50,
+    "Tipo_confezione": "Confezione da 70 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3494,
+    "Denominazione_commerciale": "MARLBORO",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2769,
+    "Denominazione_commerciale": "MARLBORO GOLD",
+    "Prezzo_kg_euro": 250.00,
+    "Prezzo_confezione_euro": 17.50,
+    "Tipo_confezione": "Confezione da 70 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3495,
+    "Denominazione_commerciale": "MARLBORO GOLD",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3704,
+    "Denominazione_commerciale": "MARLBORO GOLD TOUCH ROLLING TOBACCO",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3490,
+    "Denominazione_commerciale": "MAYA 30 GR",
+    "Prezzo_kg_euro": 243.34,
+    "Prezzo_confezione_euro": 7.30,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 20142,
+    "Denominazione_commerciale": "MON TERROIR BLOND",
+    "Prezzo_kg_euro": 243.34,
+    "Prezzo_confezione_euro": 7.30,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3453,
+    "Denominazione_commerciale": "MS TABACCO TRINCIATO 30",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3454,
+    "Denominazione_commerciale": "OLD HOLBORN",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3456,
+    "Denominazione_commerciale": "OLD HOLBORN BLONDE",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3455,
+    "Denominazione_commerciale": "OLD HOLBORN YELLOW",
+    "Prezzo_kg_euro": 256.67,
+    "Prezzo_confezione_euro": 7.70,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3466,
+    "Denominazione_commerciale": "PETER STUYVESANT GOLD",
+    "Prezzo_kg_euro": 220.00,
+    "Prezzo_confezione_euro": 6.60,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3493,
+    "Denominazione_commerciale": "PHILIP MORRIS BLUE",
+    "Prezzo_kg_euro": 243.33,
+    "Prezzo_confezione_euro": 7.30,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3492,
+    "Denominazione_commerciale": "PHILIP MORRIS VOLUME TOBACCO",
+    "Prezzo_kg_euro": 243.33,
+    "Prezzo_confezione_euro": 7.30,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2824,
+    "Denominazione_commerciale": "PUEBLO BLUE",
+    "Prezzo_kg_euro": 266.67,
+    "Prezzo_confezione_euro": 8.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3650,
+    "Denominazione_commerciale": "PUEBLO BLUE 70",
+    "Prezzo_kg_euro": 265.72,
+    "Prezzo_confezione_euro": 18.60,
+    "Tipo_confezione": "Confezione da 70 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2281,
+    "Denominazione_commerciale": "PUEBLO BURLEY BLEND",
+    "Prezzo_kg_euro": 266.67,
+    "Prezzo_confezione_euro": 8.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 1927,
+    "Denominazione_commerciale": "PUEBLO CLASSIC",
+    "Prezzo_kg_euro": 266.67,
+    "Prezzo_confezione_euro": 8.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 2774,
+    "Denominazione_commerciale": "PUEBLO CLASSIC 70",
+    "Prezzo_kg_euro": 265.72,
+    "Prezzo_confezione_euro": 18.60,
+    "Tipo_confezione": "Confezione da 70 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 20215,
+    "Denominazione_commerciale": "PUEBLO PINK",
+    "Prezzo_kg_euro": 266.67,
+    "Prezzo_confezione_euro": 8.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3481,
+    "Denominazione_commerciale": "R&W 30 G",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 7.80,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3690,
+    "Denominazione_commerciale": "RED HOUSE",
+    "Prezzo_kg_euro": 200.00,
+    "Prezzo_confezione_euro": 6.00,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3586,
+    "Denominazione_commerciale": "ROLL YOUR OWN AMERICAN BLEND BLOND",
+    "Prezzo_kg_euro": 213.34,
+    "Prezzo_confezione_euro": 6.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3584,
+    "Denominazione_commerciale": "ROLL YOUR OWN HALFZWARE SHAG BLUE",
+    "Prezzo_kg_euro": 213.34,
+    "Prezzo_confezione_euro": 6.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3452,
+    "Denominazione_commerciale": "ROTHMANS OF LONDON VOLUME TOBACCO",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 345,
+    "Denominazione_commerciale": "SAMSON ORIGINAL BLEND",
+    "Prezzo_kg_euro": 230.00,
+    "Prezzo_confezione_euro": 9.20,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3659,
+    "Denominazione_commerciale": "SAUVAGE BLOND 30G",
+    "Prezzo_kg_euro": 243.34,
+    "Prezzo_confezione_euro": 7.30,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3813,
+    "Denominazione_commerciale": "STANLEY MASTER BLEND",
+    "Prezzo_kg_euro": 216.67,
+    "Prezzo_confezione_euro": 6.50,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3673,
+    "Denominazione_commerciale": "THE KING RED 30G",
+    "Prezzo_kg_euro": 193.34,
+    "Prezzo_confezione_euro": 5.80,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 930,
+    "Denominazione_commerciale": "TILBURY AMERICAN BLEND",
+    "Prezzo_kg_euro": 245.00,
+    "Prezzo_confezione_euro": 9.80,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 258,
+    "Denominazione_commerciale": "WEST ORIGINAL BLEND",
+    "Prezzo_kg_euro": 220.00,
+    "Prezzo_confezione_euro": 8.80,
+    "Tipo_confezione": "Confezione da 40 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3758,
+    "Denominazione_commerciale": "WINSTON BLUE",
+    "Prezzo_kg_euro": 255.56,
+    "Prezzo_confezione_euro": 11.50,
+    "Tipo_confezione": "Confezione da 45 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3461,
+    "Denominazione_commerciale": "WINSTON BLUE",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3460,
+    "Denominazione_commerciale": "WINSTON RED",
+    "Prezzo_kg_euro": 246.67,
+    "Prezzo_confezione_euro": 7.40,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3040,
+    "Denominazione_commerciale": "WINSTON RED VOLUME TOBACCO",
+    "Prezzo_kg_euro": 260.00,
+    "Prezzo_confezione_euro": 13.00,
+    "Tipo_confezione": "Confezione da 50 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3803,
+    "Denominazione_commerciale": "YESMOKE AMERICAN BLEND",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  },
+  {
+    "Categoria": "Trinciati per sigarette",
+    "Codice": 3804,
+    "Denominazione_commerciale": "YESMOKE VIRGINIA & BURLEY",
+    "Prezzo_kg_euro": 240.00,
+    "Prezzo_confezione_euro": 7.20,
+    "Tipo_confezione": "Confezione da 30 grammi"
+  }
+]
+
+
+
+
+
+
