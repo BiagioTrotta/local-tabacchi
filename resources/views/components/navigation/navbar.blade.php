@@ -16,6 +16,17 @@
                     Magazzino
                 </a>
             </li>
+
+            <li class="nav-item">
+                <a class="nav-link text-warning" href="{{ route('resetWarehouse') }}">
+                    Reset Magazzino
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-warning" href="{{ route('resetBarcode') }}">
+                    Reset Barcode
+                </a>
+            </li>
         </ul>
     </div>
 </nav>

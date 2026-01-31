@@ -1,2 +1,119 @@
 /* ===== Import di Bootstrap con Vite ===== */
 @import 'bootstrap';
+
+
+/* Custom styles per il form inventario */
+.inventory-form-wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.card {
+    border-radius: 12px;
+    transition: box-shadow 0.2s ease;
+}
+
+.card:hover {
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.08) !important;
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #344054;
+}
+
+.card-title .bi {
+    font-size: 1.2rem;
+}
+
+.form-label {
+    font-size: 0.875rem;
+    color: #475467;
+    margin-bottom: 0.4rem;
+}
+
+.form-label .bi {
+    font-size: 0.85rem;
+}
+
+.form-control,
+.form-select {
+    border-radius: 8px;
+    border-color: #d0d5dd;
+    padding: 0.6rem 0.875rem;
+    font-size: 0.95rem;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.15);
+}
+
+.form-control-lg {
+    padding: 0.75rem 1rem;
+    font-size: 1.05rem;
+}
+
+/* Stile per l'input EAN */
+.ean-input {
+    background-color: #f8fafc;
+    border: 2px dashed #94a3b8;
+    font-family: 'Courier New', monospace;
+    letter-spacing: 1px;
+}
+
+.ean-input:focus {
+    background-color: #fff;
+    border-style: solid;
+    border-color: #0d6efd;
+}
+
+/* Campi readonly con stile distinto */
+.readonly-field {
+    background-color: #f1f5f9 !important;
+    border-color: #e2e8f0 !important;
+    color: #64748b;
+    cursor: not-allowed;
+}
+
+.readonly-field:focus {
+    box-shadow: none !important;
+    border-color: #e2e8f0 !important;
+}
+
+/* Pulsante submit */
+.submit-btn {
+    border-radius: 10px;
+    font-weight: 600;
+    padding: 0.85rem 2.5rem;
+    font-size: 1rem;
+    box-shadow: 0 4px 12px rgba(13, 110, 253, 0.25);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.submit-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(13, 110, 253, 0.35);
+}
+
+.submit-btn:active {
+    transform: translateY(0);
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .inventory-form-wrapper {
+        padding: 0 0.5rem;
+    }
+
+    .submit-btn {
+        width: 100%;
+    }
+
+    .card-footer .d-flex {
+        justify-content: center !important;
+    }
+}

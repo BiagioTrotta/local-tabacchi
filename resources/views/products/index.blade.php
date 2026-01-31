@@ -11,7 +11,7 @@
                     <th>Prezzo Kg (€)</th>
                     <th>Prezzo Confezione (€)</th>
                     <th>Tipo Confezione</th>
-                    <th>Quantità (stecche)</th>
+                    <th>Quantità</th>
                 </tr>
             </thead>
             <tbody>

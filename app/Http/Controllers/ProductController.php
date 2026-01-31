@@ -2,11 +2,12 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use App\Models\Product;
-use App\Models\ProductBarcode;
 use App\Models\Inventory;
+use Illuminate\Http\Request;
+use App\Models\ProductBarcode;
 use App\Models\InventoryMovement;
+use Illuminate\Validation\ValidationException;
 
 class ProductController extends Controller
 {
@@ -33,81 +34,80 @@ class ProductController extends Controller
         return view('products.inventory', compact('title', 'products'));
     }
 
-    // Salva movimento inventario
+
     public function inventoryMove(Request $request)
     {
         $request->validate([
-            'ean' => 'nullable|string|max:13',
-            'codice' => 'nullable|integer',
-            'denominazione' => 'nullable|string',
-            'quantity' => 'required|integer|min:1',
+            'items' => 'required|string',
             'type' => 'required|in:carico,scarico',
         ]);
 
-        $product = null;
+        $items = json_decode($request->items, true);
 
-        // 1️⃣ Ricerca per EAN
-        if ($request->ean) {
-            $barcode = ProductBarcode::where('ean', $request->ean)->first();
-            if ($barcode) {
-                $product = $barcode->product;
-            }
+        if (!is_array($items) || empty($items)) {
+            return back()->withErrors(['msg' => 'Lista prodotti non valida']);
         }
 
-        // 2️⃣ Ricerca manuale tramite codice o denominazione
-        if (!$product) {
-            $query = Product::query();
+        foreach ($items as $item) {
 
-            // Se c'è codice, cerca per codice
-            if ($request->codice) {
-                $query->where('codice', $request->codice);
+            // Trova prodotto: per EAN se presente, altrimenti per codice
+            $product = null;
+
+            if (!empty($item['ean'])) {
+                $barcode = ProductBarcode::where('ean', $item['ean'])->first();
+                $product = $barcode ? $barcode->product : null;
             }
 
-            // Se c'è denominazione, rimuove parentesi e cerca per LIKE
-            if ($request->denominazione) {
-                $denom = preg_replace('/\s*\(.*\)$/', '', $request->denominazione);
-                $query->orWhere('denominazione_commerciale', 'like', "%{$denom}%");
+            if (!$product && !empty($item['codice'])) {
+                $product = Product::where('codice', $item['codice'])->first();
             }
 
-            $product = $query->first();
-        }
+            if (!$product) {
+                throw ValidationException::withMessages([
+                    'items' => 'Prodotto non valido o non associato correttamente'
+                ]);
+            }
 
-        if (!$product) {
-            return redirect()->back()->withErrors(['msg' => 'Prodotto non trovato']);
-        }
+            // Se EAN fornito e non associato → crealo
+            if (!empty($item['ean'])) {
+                $product->barcodes()->firstOrCreate(
+                    ['ean' => $item['ean']],
+                    ['tipo' => 'stecca'] // default
+                );
+            }
 
-        // 3️⃣ Se EAN fornito e non presente, lo associamo
-        if ($request->ean && !$product->barcodes()->where('ean', $request->ean)->exists()) {
-            $product->barcodes()->create([
-                'ean' => $request->ean,
-                'tipo' => 'stecca', // default
+            // Aggiorna inventario
+            $inventory = $product->inventory()->firstOrCreate(['product_id' => $product->id]);
+
+            if ($request->type === 'carico') {
+                $inventory->quantity += $item['quantity'];
+            } else {
+                $inventory->quantity -= $item['quantity'];
+                if ($inventory->quantity < 0) $inventory->quantity = 0;
+            }
+
+            $inventory->save();
+
+            // Registra movimento
+            $barcodeId = !empty($item['ean'])
+                ? $product->barcodes()->where('ean', $item['ean'])->first()->id
+                : null;
+
+            $product->movements()->create([
+                'product_barcode_id' => $barcodeId,
+                'type' => $request->type,
+                'quantity' => $item['quantity'],
+                'note' => $request->note ?? null,
             ]);
         }
 
-        // 4️⃣ Aggiorna inventario
-        $inventory = $product->inventory()->firstOrCreate(['product_id' => $product->id]);
-
-        if ($request->type === 'carico') {
-            $inventory->quantity += $request->quantity;
-        } else {
-            $inventory->quantity -= $request->quantity;
-            if ($inventory->quantity < 0) $inventory->quantity = 0;
-        }
-
-        $inventory->save();
-
-        // 5️⃣ Registra movimento
-        $product->movements()->create([
-            'product_barcode_id' => $request->ean
-                ? $product->barcodes()->where('ean', $request->ean)->first()->id
-                : null,
-            'type' => $request->type,
-            'quantity' => $request->quantity,
-            'note' => $request->note ?? null,
-        ]);
-
-        return redirect()->back()->with('success', 'Movimento registrato correttamente.');
+        return back()->with('success', 'Movimenti registrati correttamente.');
     }
+
+
+
+
+
 
 
     public function findByBarcode(string $ean)
@@ -124,6 +124,7 @@ class ProductController extends Controller
             'codice' => $product->codice,
             'denominazione' => $product->denominazione_commerciale,
             'tipo_confezione' => $product->tipo_confezione,
+            'prezzo_confezione_euro' => $product->prezzo_confezione_euro,
         ]);
     }
 }

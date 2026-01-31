@@ -99,7 +99,7 @@
                             <div class="col-md-3">
                                 <label class="form-label fw-semibold">
                                     <i class="bi bi-stack me-1 text-muted"></i>
-                                    Quantità (1 unità predefinita)
+                                    Quantità (stecche)
                                 </label>
                                 <input
                                     type="number"
@@ -229,8 +229,6 @@
                     return;
                 }
 
-                const qty = parseInt(document.getElementById('quantity').value) || 1;
-
                 if (!scannedItems[key]) {
                     scannedItems[key] = {
                         ean: item.ean || null,
@@ -238,10 +236,10 @@
                         denominazione: item.denominazione,
                         tipo: item.tipo,
                         prezzo: parseFloat(item.prezzo) || 0,
-                        quantity: qty
+                        quantity: 1
                     };
                 } else {
-                    scannedItems[key].quantity += qty;
+                    scannedItems[key].quantity++;
                 }
 
                 renderTable();
@@ -252,7 +250,6 @@
                 denominazioneInput.value = '';
                 tipoConfezioneInput.value = '';
                 prezzoConfezioneInput.value = '';
-                document.getElementById('quantity').value = '';
                 eanInput.focus();
             }
 

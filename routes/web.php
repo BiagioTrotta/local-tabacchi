@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PageController;
+use App\Http\Controllers\SaleController;
 use App\Http\Controllers\ProductController;
 
 // Rotta Homepage
@@ -20,3 +21,8 @@ Route::prefix('products')->name('products.')->group(function () {
 Route::get('/products/by-barcode/{ean}', [ProductController::class, 'findByBarcode'])
     ->name('products.byBarcode');
 
+
+
+Route::get('/test/reset-warehouse', [PageController::class, 'resetWarehouse'])->name('resetWarehouse');
+
+Route::get('/test/reset-resetBarcode', [PageController::class, 'resetBarcode'])->name('resetBarcode');
